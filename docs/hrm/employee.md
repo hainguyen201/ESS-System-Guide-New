@@ -63,18 +63,7 @@ Sau đó thực hiện khai báo thông tin của nhân viên:
 
 **Lưu ý :** Mã nhân viên sẽ được hệ thống tự sinh sau khi người dùng hoàn thành thao tác thêm mới hồ sơ nhân viên.
 
-**Hướng dẫn nhập nhiều bản ghi:** 
 
-Trong trường hợp người dùng muốn thực hiện nhập nhiều nhân viên thì sử dụng tính năng "Thêm bản ghi" trên hệ thống. Các bước thực hiện như sau:
-
-- Vào menu Nhân viên >> Nhân viên: Hệ thống hiển thị màn hình danh sách nhân viên. Người dùng chọn ![image-20211105112344388](images/image-20211105112344388.png) Yêu thích >> Thêm bản ghi 
-
-  ![image-20211105112114225](images/image-20211105112114225.png) 
-
-- Tại đây, người dùng bấm "Tải biểu mẫu danh sách nhân viên" để tải xuống file mẫu nhập dữ liệu ![image-20211105112814203](images/image-20211105112814203.png)
-- Người dùng nhập dữ liệu thông tin nhân viên vào file excel. ![image-20211105113013152](images/image-20211105113013152.png)
-- Trên giao diện phần mềm, người dùng bấm nút ![image-20211105113059867](images/image-20211105113059867.png) >> hệ thống hiển thị màn hình như sau ![image-20211105113404324](images/image-20211105113404324.png) Tại đây người dùng kiểm tra thông tin dữ liệu, và bấm nút **Kiểm thử** để hệ thống kiểm tra dữ liệu trước khi nhập >> Hệ thống tự động kiểm tra và thông báo kết quả lỗi dữ liệu lên màn hình >> Người dùng đọc thông báo và điều chỉnh dữ liệu trên file excel để chính xác, sau đó bấm ![image-20211105113554792](images/image-20211105113554792.png) để tải lại file sau khi chỉnh sửa dữ liệu >> Tiếp tục bấm **Kiểm thử** để kiểm tra cho đến khi kết quả hệ thống kiểm tra thông báo là ![image-20211105113827486](images/image-20211105113827486.png) 
-- Người dùng bấm nút ![image-20211105113858786](images/image-20211105113858786.png) để thực hiện nạp dữ liệu vào hệ thống >> Hệ thống ghi nhận dữ liệu và hiển thị thông báo Thêm bản ghi thành công
 
 **Bước 2:** Tại tab **Hợp đồng**, người dùng chọn **Tạo** để thêm mới hợp đồng cho nhân viên. Hợp đồng sau khi tạo và duyệt tại đây sẽ được tự động sinh dữ liệu ở tab **Quá trình làm việc**
 
@@ -309,6 +298,165 @@ Nếu nhân viên không có ý định ý tiếp với công ty, khi hợp đ�
 
 **Bước 3:** Chọn **Lưu và đóng**, nhân viên này sẽ có trạng thái là Nghỉ việc, nhân viên nhân sự thực hiện Lưu trữ nhân viên nghỉ việc. Việc lưu trữ hoàn toàn có thể khôi phục được lại hồ sơ nhân viên, trong trường hợp nhân viên quay trở lại làm việc cho công ty, khi đó nhân viên nhân sự sẽ không tốn nỗ lực nhập lại hồ sơ thông tin mà chỉ cần thay đổi các thông tin cần thiết (nếu có).
 
+## Nhập dữ liệu nhân viên từ file excel
+
+### Nhập dữ liệu nhân viên
+
+**Mục đích sử dụng**
+
+Trong trường hợp người dùng muốn thực hiện nhập nhiều nhân viên thì sử dụng tính năng "Thêm bản ghi" trên hệ thống. 
+
+**Các bước thực hiện**
+
+***Bước 1:*** Vào menu Nhân viên >> Nhân viên: Hệ thống hiển thị màn hình danh sách nhân viên. Người dùng chọn ![image-20211105112344388](images/image-20211105112344388.png) Yêu thích >> Thêm bản ghi 
+
+![image-20211105112114225](images/image-20211105112114225.png) 
+
+
+
+***Bước 2:*** 
+
+* Tại đây, người dùng bấm "Tải biểu mẫu danh sách nhân viên" để tải xuống file mẫu nhập dữ liệu ![image-20211105112814203](images/image-20211105112814203.png)
+
+- Người dùng nhập dữ liệu thông tin nhân viên vào file excel. ![image-20211105113013152](images/image-20211105113013152.png)
+
+
+
+***Bước 3:*** Trên giao diện phần mềm, người dùng bấm nút ![](images/2022-06-27_16h59_52-16563917312094.png) >> hệ thống hiển thị màn hình như sau ![image-20211105113404324](images/image-20211105113404324-16564006879455.png) Tại đây người dùng kiểm tra thông tin dữ liệu, và bấm nút **Kiểm thử** để hệ thống kiểm tra dữ liệu trước khi nhập >> Hệ thống tự động kiểm tra và thông báo kết quả lỗi dữ liệu lên màn hình >> Người dùng đọc thông báo và điều chỉnh dữ liệu trên file excel để chính xác, sau đó bấm ![image-20211105113554792](images/2022-06-27_17h09_58-165639182691512.png) để tải lại file sau khi chỉnh sửa dữ liệu >> Tiếp tục bấm **Kiểm thử** để kiểm tra cho đến khi kết quả hệ thống kiểm tra thông báo là ![image-20211105113827486](images/2022-06-28_11h00_54-16564007343227.png) 
+
+
+
+***Bước 4:*** Người dùng bấm nút ![image-20211105113858786](images/2022-06-27_17h00_11-165639186538114.png) để thực hiện nạp dữ liệu vào hệ thống >> Hệ thống ghi nhận dữ liệu và hiển thị thông báo Thêm bản ghi thành công.
+
+
+
+**Các lỗi thường gặp và cách xử lý:**
+
+  * *Thiếu dữ liệu các trường bắt buộc:*
+
+    * Nguyên nhân: Không nhập thông tin cho các trường bắt buộc
+
+    * Cách xử lý: Nhập đầy đủ thông tin cho các trường:
+
+      ![2022-06-27_17h36_20](images/2022-06-27_17h36_20.png)
+
+      
+
+  * *Mã nhân viên đã tồn tại:*
+
+    * Nguyên nhân: Mã nhân viên đã tồn tại trong hệ thống
+
+    * Cách xử lý: Mã nhân viên là duy nhất, kiểm tra và nhập lại mã chưa có trong hệ thống
+
+      ![2022-06-28_08h55_45](images/2022-06-28_08h55_45.png)
+
+    
+
+  * *Nhập hộ khẩu thường trú không hợp lệ:*
+
+    * Nguyên nhân: Nhập không đầy đủ đơn vị hành chính. Ví dụ: Hà Nội, Đống Đa, Dịch Vọng Hậu
+
+    * Cách xử lý: Nhập đầy đủ đơn vị hành chính: Thành phố Hà Nội, quận Đống Đa, phường Dịch Vọng Hậu.
+
+      ![2022-06-28_08h38_22](images/2022-06-28_08h38_22.png)
+
+  * *Trường ngày tháng không đúng định dạng:*
+
+    * Nguyên nhân: Nhập ngày không có, ví dụ 29/2/2022; nhập định dạng ngày tháng khác định dạng dd/mm/yyyy
+
+    * Cách xử lý: Nhập đúng ngày, đúng định dạng
+
+      ![2022-06-28_09h12_34](images/2022-06-28_09h12_34.png)
+
+### Nhập dữ liệu quá trình trong hồ sơ của nhân viên
+
+**Mục đích sử dụng** 
+
+Nhập hàng loạt thông tin các quá trình trong hồ sơ nhân viên. Các thông tin có thể nhập bao gồm: Thông tin công việc, Quá trình làm việc, Kinh nghiệm, Kỹ năng, thông tin Quan hệ gia đình, quá trình Giảm trừ gia cảnh, Quá trình phụ cấp, Hồ sơ, Thông tin chính trị - y tế, Thành tích, Đăng ký công, Thông tin BHXH, Cách tính thuế, Thu nhập.
+
+**Đối tượng thực hiện**
+
+Cán bộ Quản lý Nhân sự, (tức là người dùng được phân quyền Quản trị tại module Nhân viên).
+
+**Các bước thực hiện:**
+
+***Bước 1:***  Người dùng truy cập vào menu Nhân viên >> Chọn mục Nhân viên: Màn hình hiển thị Danh sách Nhân viên.
+
+![image-20220627165210195](images/2022-06-27_16h51_52.png)
+
+
+
+***Bước 2:*** Vào mục Yêu thích > Chọn mục 'Import dữ liệu thông tin nhân viên'
+
+![image-20220627165410830](images/2022-06-27_16h53_26.png)
+
+
+
+***Bước 3***: Hoàn thành thông tin cần nhập liệu
+
+*a. Tải file mẫu:* Người dùng thực hiện tải file mẫu bằng cách bấm vào dòng chữ "Mẫu nhập cho thông tin nhân viên"
+
+![image-20220627165557452](images/2022-06-27_16h55_00.png)
+
+*b. Hoàn thiện dữ liệu cần nhập:* Người dùng thực hiện điền dữ liệu vào file theo mẫu vừa tải về (nhập đúng trang tính và đầy đủ thông tin theo cột). Lưu lại thông tin đã nhập.
+
+![2022-06-27_16h57_25](images/2022-06-27_16h57_25.png)
+
+
+
+***Bước 4:*** Trên màn hình hệ thống, nhấn vào Nạp tập tin ![2022-06-27_16h59_52](images/2022-06-27_16h59_52.png) và tải lên tập tin vừa lưu
+
+- Lựa chọn trang dữ liệu cần import: Biểu mẫu tải về chứa nhiều trang thông tin, người dùng có thể nhập một trong các trang dữ liệu đó và chọn đúng trang tính cần nhập dữ liệu để tải lên![image-20220627170721870](images/2022-06-27_17h03_19.png)
+
+- Kiểm tra việc gắn dữ liệu theo cột trên file excel với các cột dữ liệu trên hệ thống
+
+- Sau đó, bấm nút Kiểm thử ![2022-06-27_17h09_10](images/2022-06-27_17h09_10.png) để hệ thống kiểm tra dữ liệu trước khi nhập >> Hệ thống tự động kiểm tra và thông báo kết quả lỗi dữ liệu lên màn hình >> Người dùng đọc thông báo và điều chỉnh dữ liệu trên file excel để chính xác, sau đó bấm ![2022-06-27_17h09_58](images/2022-06-27_17h09_58.png) để tải lại file sau khi chỉnh sửa dữ liệu >> Tiếp tục bấm **Kiểm thử** để kiểm tra cho đến khi kết quả hệ thống kiểm tra thông báo là ![2022-06-28_11h00_54](images/2022-06-28_11h00_54.png)
+
+* Người dùng bấm vào nút Nhập![2022-06-27_17h00_11](images/2022-06-27_17h00_11.png)  để tải lên dữ liệu. Hệ thống sẽ hiển thị thông báo Thêm bản ghi thành công sau khi hoàn tất nạp dữ liệu.
+
+
+
+**Các lỗi thường gặp và cách xử lý:**
+
+* *Tệp dường như không có nội dung:*
+
+  * Nguyên nhân: Tập tin tải lên chứa nhiều trang tính. Người dùng chỉ có thể chọn 01 trang tính để nhập dữ liệu vào hệ thống, và chọn trang tính chưa nhập thông tin
+
+  * Cách xử lý: Chọn đúng trang tính đã nhập thông tin và cần nhập dữ liệu
+
+    ![2022-06-28_09h22_27](images/2022-06-28_09h22_27.png)
+
+  
+
+* *Mã nhân viên không tồn tại:*  
+
+  * Nguyên nhân: Mã nhân viên chưa có trong hệ thống, nhập sai mã nhân viên.
+
+  * Xử lý: Kiểm tra lại mã nhân viên, sửa lại trong file và nạp lại tập tin
+
+    ![2022-06-28_09h27_48](images/2022-06-28_09h27_48.png)
+
+  
+
+* *Không tìm thấy dữ liệu trùng khớp:*
+
+  * Nguyên nhân: Với mỗi loại kỹ năng sẽ có các kỹ năng khác nhau. Ví dụ: Loại kỹ năng Ngôn ngữ, sẽ có các kỹ năng: Tiếng Anh, tiếng Nhật, tiếng Pháp; Loại kỹ năng Lập trình sẽ có các kỹ năng: Java, Python, JavaScript. Người dùng cần chọn đúng kỹ năng của mỗi loại kỹ năng
+
+  * Xử lý: Người dùng nên chọn lần lượt từ Loại kỹ năng > Kỹ năng để chọn đúng kỹ năng trong Loại kỹ năng mà file xổ ra theo phân loại.
+
+    ![2022-06-28_10h32_53](images/2022-06-28_10h32_53.png)
+
+    
+
+* *Không phải số tự nhiên* đối với trường Tỷ lệ hưởng lương:
+
+  * Nguyên nhân: Thêm dấu % phía sau tỉ lệ
+
+  * Xử lý: Chỉ nhập số tự nhiên, không thêm các kí tự đặc biệt khác
+
+    ![2022-06-28_10h41_11](images/2022-06-28_10h41_11.png)
+
+    
 ## Xuất các báo cáo nhân sự
 
 - **Mục đích:** Xem trước và xuất các báo cáo nhân sự cần thiết
