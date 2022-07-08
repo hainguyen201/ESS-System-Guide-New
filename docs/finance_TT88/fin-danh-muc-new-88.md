@@ -381,6 +381,65 @@ Danh mục vật tư, hàng hoá cho phép quản lý toàn bộ vật tư, hàn
 
 **Bước 4:** Nhấn **Lưu** để lưu lại thông tin
 
+##### Đơn vị tính Chuyển đổi
+
+Với một Vật tư hàng hóa có thể có nhiều hơn 1 Đơn vị tính trong quá trình Mua/Bán.
+
+Để quản lý thông tin Đơn vị của một Sản phẩm sẽ gồm các thông tin về Đơn vị tính như sau:
+
+- Đơn vị tính chính: Là đơn vị tính chính của sản phẩm, khi mua hàng dùng Đơn vị tinh khác thì đến phần Quản lý kho đề quy đổi về Đơn vị tính chính của sản phẩm
+- Đơn vị tính mua hàng: Là đơn vị dùng trong quá trình Mua hàng, có thể khác với Đơn vị tính chính
+- Đơn vị tính chuyển đổi (được khai báo tại Tab Đơn vị tính chuyển đổi tại màn hình chức năng **Vật tư hàng hóa**): là các đơn vị tính được khai báo gắn với Sản phẩm nhưng khác ĐƠn vị tính chính và có thông tin Quy đổi so với Đơn vị tính chính. Gồm 2 giá trị quy đổi:
+  - Lớn hơn Đơn vị chính
+  - Nhỏ hơn Đơn vị chính
+
+**Ví dụ:**
+
+- Sản phẩm Nước khoáng Lavie 500ml: quản lý theo Đơn vị tính là Thùng hoặc Chai. Mỗi Thùng có 24 chai: Khi đó có thể khai báo
+
+**Cách 1:** 
+
+- Đơn vị tính chính: **Thùng**
+- Đơn vị tính mua hàng: Là Thùng  hoặc Chai
+- Tại Đơn vị tính quy đổi sẽ khai báo thêm: Đơn vị tính là **Chai** - Loại chuyển đổi là **Nhỏ hơn Đơn vị chính** - Tỷ lệ là **24**
+
+**Cách 2:** 
+
+- Đơn vị tính chính: **Chai**
+- Đơn vị tính mua hàng: Là Thùng  hoặc Chai
+- Tại Đơn vị tính quy đổi sẽ khai báo thêm: Đơn vị tính là **Thùng** - Loại chuyển đổi là **Lớn hơn Đơn vị chính** - Tỷ lệ là **24**
+
+**Bước 1**: Vào thông tin chi tiết Vật tư hàng hóa:
+
+- Vào Danh mục: Chọn chức năng Vật tư hàng hóa. Nhấn **Chi tiết** để vào danh mục
+- Tại Chức năng Danh mục: Chọn Vật tư hàng hóa cần khai báo thông tin Đơn vị tính chuyển đổi
+
+![](images/fin_Danhmuc_VTHH_DanhSach.png)
+
+**Bước 2**: Tại màn hình Chi tiết vật tư  hàng hóa: Nhấn nút **Sửa**
+
+![](images/fin_Danhmuc_VTHH_Sua.png)
+
+**Bước 3**: Khai báo thông tin tại **Tab Đơn vị tính chuyển đổi**
+
+- Chọn Đơn vị tính = Chai
+
+- Chọn Loại chuyển đổi = Nhỏ hơn đơn vị chính
+
+- Nhập Tỷ lệ = 24
+
+  ==> Khi đó hệ thống sẽ hiểu: 1 Thùng (Đơn vị tính chính) = 24 Chai
+
+![](images/fin_Danhmuc_VTHH_Sua_nhapThongTin.png)
+
+**Bước 4**: Nhấn nút **Lưu** để hoàn thành khai báo
+
+![](images/fin_Danhmuc_VTHH_Sua_Luu.png)
+
+Sau khi khai báo thành công Đơn vị tính chuyển đổi:
+
+- Trong quá trình Mua/Bán Nước khoáng Lavie: Có thể dùng cả 2 đơn vị tính là: Thùng hoặc Chai
+
 ##### Import vật tư, hàng hóa
 
 Vào danh mục hàng hóa vật tư, thực hiện Import vật tư hàng hóa cần sử dụng
@@ -1214,7 +1273,7 @@ Thông tin **Danh mục Sổ kế toán** được hiển thị để người d
 
 **Bước 3**: Nhấn **Lưu**
 
-## Khác
+## *Khác*
 
 ### Nhóm bán hàng
 
@@ -1648,3 +1707,51 @@ Hiển thị danh sách các loại Thuế bảo vệ môi trường
 
 ![fin_danhmuc_H_ThueBVMT_Luu](images/fin_danhmuc_H_ThueBVMT_Luu.png)
 
+## *Đơn vị tính*
+
+### Đơn vị tính
+
+**Mục đích**
+
+Quản lý toàn bộ thông tin Đơn vị tính được sử dụng cho các sản phẩm vật tư hàng hóa của Doanh nghiệp
+
+Chức năng Danh mục **Đơn vị tính** được quản lý tập trung tại phần **Danh mục**
+
+**Các bước thực hiện**
+
+**Bước 1:** Vào **Danh mục**: chọn **Đơn vị tính** và nhấn nút **Chi tiết**
+
+![](images/fin_Danhmuc_DVT.png)
+
+**Bước 2**: Thông tin trên Danh sách
+
+Hệ thống tự động tạo sẵn các Đơn vị tính hay được dùng cho các sản phẩm; Người dùng có thể sử dụng luôn các Đơn vị tính này
+
+Hoặc tự tạo các Đơn vị tính áp dụng riêng cho sản phẩm của Doanh nghiệp.
+
+![](images/fin_Danhmuc_DVT_DanhSach.png)
+
+**Bước 3**: Khai báo Đơn vị tính
+
+- Để khai báo: Người dùng nhấn nút ![](images/fin_banhang_taomoi.png): Hệ thống tạo 1 dòng dữ liệu trên Danh sách để người dùng nhập thông tin
+
+![](images/fin_Danhmuc_DVT_DanhSach_Tao.png)
+
+**Bước 4**: Nhấn **Lưu**
+
+![](images/fin_Danhmuc_DVT_DanhSach_Tao_Luu.png)
+
+**Kết quả:**
+
+- Hệ thống tạo ra một Đơn vị tính với thông tin là Thông tin vừa nhập
+- Hệ thống tự động tạo ra 1 Nhóm đơn vị tính với Thông tin theo Đơn vị tính đã khai báo
+
+![](images/fin_Danhmuc_NhomDVT_DanhSach.png)
+
+**Lưu ý:**
+
+- Khi thay đổi thông tin bên Đơn vị tính (thay đổi về Tên, Tính hiệu lực): Thông tin bên Nhóm đơn vị tính sẽ được thay đổi tương ứng
+
+- Với Nhóm Đơn vị tính được tạo ra khi khai báo Đơn vị tính: Sẽ không được phép Sửa/Xóa bên chức năng Nhóm đơn vị tính
+
+  

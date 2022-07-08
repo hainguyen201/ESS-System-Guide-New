@@ -12,17 +12,21 @@ Phân hệ **Bán hàng** quản lý toàn bộ quy trình bán hàng từ bư�
 
 ·     Lập đơn bán hàng gửi khách hàng. Chi tiết thao tác chức năng **[tại đây](#lap-on-ban-hang)**
 
-·     Xuất kho đơn bán hàng. Chi tiết thao tác chức năng [**tại đây**](#xuat-kho-on-ban-hang)
+·     Xuất kho từ đơn bán hàng. Chi tiết thao tác chức năng [**tại đây**](#xuat-kho-on-ban-hang)
 
-·     Tạo hóa đơn bán hàng. Chi tiết thao tác chức năng **[tại đây](#hoa-on-ban-hang)**
+·     Tạo chứng từ bán hàng. Chi tiết thao tác chức năng **[tại đây](#hoa-on-ban-hang)**
 
-·     Tạo hóa đơn bán hàng - Giảm thuế 20%. Chi tiết thao tác chức năng **[tại đây](#hoa-on-ban-hang-giam-thue-20)**
+·     Tạo chứng từ bán hàng - Giảm thuế 20%. Chi tiết thao tác chức năng **[tại đây](#hoa-on-ban-hang-giam-thue-20)**
+
+·     Xuất kho từ chứng từ bán hàng. Chi tiết thao tác chức năng [**tại đây**](#xuat-kho-on-ban-hang)
 
 ·     Ghi nhận thanh toán từ khách hàng. Chi tiết thao tác chức năng **[tại đây](ghi-nhan-thanh-toan-tu-khach-hang)**
 
 ·     Xuất hóa đơn điện tử. Chi tiết thao tác chức năng **[tại đây](xuat-hoa-on-ien-tu)**
 
 ·     Tạo hóa đơn giảm giá/Trả hàng. Chi tiết thao tác chức năng **[tại đây](hoa-on-giam-giatra-hang)**
+
+·     Nhập hàng trả lại từ chứng từ trả hàng. Chi tiết thao tác chức năng **[tại đây](hoa-on-giam-giatra-hang)**
 
 ## *Lập đơn bán hàng*
 
@@ -107,9 +111,15 @@ Mục **Điều khoản thanh toán**: Nếu có thỏa thuận về điều ki�
 
 Tại đơn hàng đã tạo, nếu khách hàng thực sự có nhu cầu mua hàng, người bán hàng nhấn nút **Xác nhận** để hoàn thành đơn hàng
 
-Nếu không còn nhu cầu bán hàng, người bán nhấn **Hủy** hoặc thực hiện xóa đơn hàng đã tạo
+Sau khi đơn hàng được xác nhận, sẽ có hai luồng xử lý:
 
-Sau khi có đơn hàng, sản phẩm sẽ được giao cho khách hàng
+Nếu thiết lập kho không chọn "**Chứng từ bán hàng kiêm phiếu xuất kho**" thì hệ thống sinh phiếu xuất kho. Sản phẩm sẽ được giao cho khách hàng
+
+Nếu thiết lập kho chọn "**Chứng từ bán hàng kiêm phiếu xuất kho**" thì hệ thống **không** sinh phiếu xuất kho. Người dùng cần tạo chứng từ bán hàng để sinh phiếu xuất kho, sản phẩm sẽ được giao cho khách hàng
+
+![](images/fin_DBH_thietlap.png)
+
+Nếu không còn nhu cầu bán hàng, người bán nhấn **Hủy** hoặc thực hiện xóa đơn hàng đã tạo
 
 ![](images/fin_banhang_donhang_xoa.png)
 
@@ -118,6 +128,10 @@ Sau khi có đơn hàng, sản phẩm sẽ được giao cho khách hàng
 ## *Xuất kho đơn bán hàng*
 
 ### Mô tả nghiệp vụ
+
+Khi thiết lập kho không chọn "**Chứng từ bán hàng kiêm phiếu xuất kho**" thì hệ thống sinh phiếu xuất kho. Sản phẩm sẽ được giao cho khách hàng
+
+![](images/fin_DBH_thietlap.png)
 
 Sau khi thực hiện **Xác nhận đơn hàng**, chương trình tự động sinh ra một yêu cầu giao hàng. Người dùng có thể theo dõi tình trạng giao hàng của sản phẩm trên phiếu xuất kho đã sinh ra và xác nhận số lượng sản phẩm bàn giao theo đơn hàng 
 
@@ -138,7 +152,15 @@ Sau khi thực hiện **Xác nhận đơn hàng**, chương trình tự động 
 
 ### **Hướng dẫn trên phần mềm**
 
-**Bước 1**: Chọn **Phiếu xuất kho**, hệ thống chuyển sang chức năng phiếu xuất kho. 
+**Bước 1**: Kiểm tra lại thiết lập kho, yêu cầu  không chọn "**Chứng từ bán hàng kiêm phiếu xuất kho**" 
+
+![](images/fin_DBH_thietlap.png)
+
+**Bước 2**: Tại đơn bán hàng, nhấn **xác nhận** đơn hàng, chương trình tự động sinh ra một yêu cầu giao hàng
+
+![](images/fin_banhang_donhang_phieuxuat.png)
+
+**Bước 3**: Chọn **Phiếu xuất kho**, hệ thống chuyển sang chức năng phiếu xuất kho. 
 
 ![](images/fin_banhang_donhang_pxk.png)
 
@@ -165,17 +187,19 @@ Như vậy **Phiếu xuất kho** đã **Hoàn thành** .
 
 ### Mô tả nghiệp vụ
 
-Sau khi giao hàng thành công, người dùng thực hiện kiểm tra dữ liệu và lập hóa đơn bán hàng và gửi hóa đơn cho khách hàng
+Sau khi xác nhận đơn hàng thành công, người dùng thực hiện  lập hóa đơn bán hàng và gửi hóa đơn cho khách hàng
 
 ### Hướng dẫn trên phần mềm
 
-Người dùng có thể lập hóa đơn bán hàng theo hai cách khác nhau
+Người dùng có thể lập hóa đơn bán hàng theo các cách khác nhau
 
-**Cách 1**:Lập hóa đơn bán hàng từ đơn bán hàng. Chi tiết nghiệp vụ **[tại đây](#Lap-hoa-don-ban-hang-tu-don-ban-hang)**
+**Cách 1**:Lập hóa đơn bán hàng từ đơn bán hàng không sinh phiếu xuất kho. Chi tiết nghiệp vụ **[tại đây](#Lap-hoa-don-ban-hang-tu-don-ban-hang)**
 
-**Cách 2**: Lập hóa đơn bán hàng không từ đơn bán hàng. Chi tiết nghiệp vụ **[tại đây](#Lap-hoa-don-ban-hang-khong-tu-don-ban-hang)**
+**Cách 2**:Lập hóa đơn bán hàng từ đơn bán hàng sinh phiếu xuất kho. Chi tiết nghiệp vụ **[tại đây](#Lap-hoa-don-ban-hang-tu-don-ban-hang)**
 
-#### Lập hóa đơn bán hàng từ đơn bán hàng
+**Cách 3**: Lập hóa đơn bán hàng không từ đơn bán hàng. Chi tiết nghiệp vụ **[tại đây](#Lap-hoa-don-ban-hang-khong-tu-don-ban-hang)**
+
+#### Lập hóa đơn bán hàng từ đơn bán hàng (không sinh phiếu xuất kho)
 
 **Xem video hướng dẫn**
 
@@ -191,6 +215,10 @@ Người dùng có thể lập hóa đơn bán hàng theo hai cách khác nhau
 
 
 Đối tượng thực hiện: Người bán hàng
+
+**Điều kiện**: Thiết lập kho không chọn "**Chứng từ bán hàng kiêm phiếu xuất kho**" 
+
+![](images/fin_DBH_thietlap.png)
 
 **Bước 1**: Vào phân hệ **Bán hàng**, Chọn **Đơn bán hàng** đã hoàn thành Giao hàng cho khách hàng và Nhấn **Tạo hóa đơn**
 
@@ -222,7 +250,52 @@ Chọn **Tạo & xem hóa đơn** hoặc **Tạo hóa đơn** để thực hiệ
 
 ![](images/fin_banhang_donhang_hoadon_button.png)
 
-#### Lập hóa đơn bán hàng không từ đơn bán hàng
+#### Lập hóa đơn bán hàng từ đơn bán hàng (sinh phiếu xuất kho)
+
+Đối tượng thực hiện: Người bán hàng
+
+**Điều kiện**: Thiết lập kho chọn "**Chứng từ bán hàng kiêm phiếu xuất kho**" 
+
+![](images/fin_DBH_thietlap1.png)
+
+**Bước 1**: Vào phân hệ **Bán hàng**, Chọn **Đơn bán hàng** đã xác nhận và Nhấn **Tạo chứng từ**
+
+![](images/fin_banhang_donhang_taochungtu.png)
+
+**Bước 2**: Trên thông tin **Chứng từ bán hàng** vừa được tạo , hệ thống tự động sinh bổ sung thông tin liên quan đến xuất kho bao gồm:
+
+- Loại xuất kho: Mặc định loại xuất bán hàng hóa
+- Kho xuất: Mặc định là kho chính của hệ thống, lấy theo loại xuất kho đang chọn
+
+Nhân viên thực hiện nhập các dữ liệu về:
+
+- Hóa đơn: **Ngày hạch toán, Mẫu số hóa đơn,  Số hóa đơn**
+
+  ![](images/fin_banhang_donhang_hoadon_tabchung1.png)
+
+- Chọn và nhập thông tin về  Chiết khấu tương ứng của Đơn hàng (Nếu có)
+
+  ![](images/fin_banhang_donhang_hoadon_tabchitietCK.png)
+
+**Bước 4**: Nhân viên thực hiện nhấn **Xác nhận** để hoàn thành chứng từ
+
+Nếu như đủ hàng còn tồn trong kho, hệ thống sẽ xác nhận thành công và sinh một phiếu xuất kho ở trạng thái đã ghi sổ với loại xuất bằng loại xuất tương ứng đã chọn tại chứng từ bán hàng. Sản phẩm sẽ được giao cho khách hàng
+
+![](images/fin_banhang_HDBH_PXK.png)
+
+**Bước 5**: Nhấn chọn **Giao hàng**, hệ thống chuyển sang chức năng phiếu xuất kho. Người dùng có thể kiểm tra lại thông tin hàng hóa đã xuất kho
+
+![](images/fin_banhang_donhang_pxk_chung.png)
+
+**Bước 6**: Tại chứng từ bán hàng, khi người dùng nhấn **Chuyển về nháp**, hệ thống thực hiện đưa chứng từ bán hàng về trạng thái dự thảo, đồng thời sẽ xóa phiếu xuất kho tương ứng
+
+![](images/fin_banhang_donhang_hoadon_tabchung2.png)
+
+**Lưu ý:** Để nhìn lại tình trạng hóa đơn của đơn bán hàng, người dùng có thể vào chức năng đơn bán hàng, nhấn chọn **Hóa đơn** tại góc phải màn hình 
+
+![](images/fin_banhang_donhang_hoadon_button1.png)
+
+#### Lập hóa đơn bán hàng không qua đơn bán hàng
 
 Đối tượng thực hiện: Người bán hàng
 
@@ -279,7 +352,21 @@ Sau khi xác nhận hóa đơn, hệ thống sẽ sinh dữ liệu vào chức n
 
 ![](images/fin_banhang_xacnhan.png)
 
-## *Hóa đơn bán hàng - Giảm thuế 20%*
+**Chú ý**: Nếu thiết lập kho chọn "**Chứng từ bán hàng kiêm phiếu xuất kho**" thì sau khi xác nhận thành công chứng từ bán hàng,  hệ thống **tự sinh** phiếu xuất kho ở trạng thái đã ghi sổ nhằm thực hiện xuất luôn hàng bán cho khách hàng. 
+
+![](images/fin_DBH_thietlap1.png)
+
+![](images/fin_banhang_HDBH_PXK1.png)
+
+Nhấn chọn **Giao hàng**, hệ thống chuyển sang chức năng phiếu xuất kho. Người dùng có thể kiểm tra lại thông tin hàng hóa đã xuất kho
+
+![](images/fin_banhang_donhang_pxk_chung1.png)
+
+Tại chứng từ bán hàng, khi người dùng nhấn **Đưa về dự thảo**, hệ thống thực hiện đưa chứng từ bán hàng về trạng thái dự thảo, đồng thời sẽ xóa phiếu xuất kho tương ứng
+
+![](images/fin_banhang_donhang_hoadon_tabchung3.png)
+
+## *Chứng từ bán hàng - Giảm thuế 20%*
 
 ### Mô tả nghiệp vụ
 
@@ -408,13 +495,95 @@ Người dùng có thể tìm thấy phiếu thu tiền dựa trên ngày thanh 
 
 ![](images/fin_banhang_hoadon_phieuthu_danhsach.png)
 
-## *Hóa đơn giảm giá/trả hàng*
+## *Chứng từ trả hàng*
+
+### Mô tả nghiệp vụ
+
+Khi phát sinh nghiệp vụ trả lại hàng đã bán, thông thường sẽ có các hoạt động sau:
+
+Nếu phát hiện hàng mua về không đúng quy cách, phẩm chất theo hợp đồng đã ký, khách hàng thoả thuận với doanh nghiệp trả lại hàng đã mua.
+
+Cách 1: Người bán hàng lập hóa đơn trả hàng bán để giao cho khách hàng và ghi sổ kế toán.Chi tiết nghiệp vụ **[tại đây](#tao-hoa-on-tra-hang)**
+
+Cách 2: Người bán hàng chuyển đổi hóa đơn bán hàng thành khoản hoàn tiền/công nợ giảm. Chi tiết nghiệp vụ **[tại đây](#chuyen-oi-thanh-khoan-hoan-tiencong-no-giam)**
+
+### Hướng dẫn trên phần mềm
+
+Đối tượng thực hiện: Nhân viên kế toán
+
+**Xem video hướng dẫn**
+
+<iframe
+    width="920"
+    height="450"
+    frameborder="0"
+    allow="autoplay; encrypted-media; clipboard-write; gyroscope; picture-in-picture "
+    allowfullscreen
+    title="Tạo hóa đơn giảm giá" 
+    src="https://www.youtube.com/embed/fV4wocdQ2HY?list=PLcdARb5pnnj8jeyvyhaptnwL3sxxT_QaK"
+></iframe>
+
+
+#### Tạo hóa đơn trả hàng không có thiết lập bán hàng kiêm phiếu xuất kho
+
+**Bước 1**: Vào phân hệ **Bán hàng**, chọn **Hóa đơn**, chọn **Hóa đơn bán hàng**. Trên danh sách hóa đơn bán hàng, kế toán tìm tới các hóa đơn đã được ghi sổ, nhấn chọn **Tạo CT trả hàng/giảm giá**
+
+![](images/fin_BanHang_HoaDon_TaoHDGiamGia1.png)
+
+**Bước 2**: Chọn **chứng từ trả hàng** nếu muốn thực hiện trả hàng
+
+Hệ thống tự sinh chứng từ trả hàng với thông tin tương ứng với hóa đơn bán hàng. 
+
+Trên hóa đơn trả hàng được sinh ra, kế toán khai báo  các thông tin trên chứng từ trả hàng hàng bán như: số lượng hàng được trả, giá trị trả
+
+![](images/fin_BanHang_HoaDon_HDGiamGia.png)
+
+Nhấn **xác nhận** để ghi sổ thông tin hóa đơn. 
+
+Sau đó, người dùng sẽ **xuất hóa đơn** để gửi lại cho khách hàng và **ghi nhận lại thanh toán**
+
+![](images/fin_banhang_hoadon_giamgia_ghinhantt.png)
+
+#### Tạo hóa đơn trả hàng có thiết lập bán hàng kiêm phiếu xuất kho
+
+Nếu thiết lập kho chọn "**Chứng từ bán hàng kiêm phiếu xuất kho**" thì khi nhấn tạo chứng từ trả hàng từ chứng từ bán hàng, hệ thống tự sinh chứng từ trả hàng với thông tin tương ứng với hóa đơn bán hàng và bổ sung thêm một số thông tin sau:
+
+![](images/fin_DBH_thietlap1.png)
+
+![](images/fin_BanHang_HoaDon_HDGiamGia1.png)
+
+- Loại nhập: Mặc định là Nhập hàng bán trả lại
+- Kho nhập: Mặc định kho chính của hệ thống, lấy theo loại nhập
+
+Trên hóa đơn trả hàng được sinh ra, kế toán khai báo  các thông tin trên chứng từ trả hàng hàng bán như: số lượng hàng được trả, giá trị trả. Nhấn **xác nhận** để ghi sổ thông tin hóa đơn.
+
+Sau khi xác nhận thành công chứng từ trả hàng,  hệ thống **tự sinh** phiếu nhập kho ở trạng thái đã ghi sổ nhằm thực hiện nhập lại hàng đã trả
+
+![](images/fin_banhang_HDTH_PNK.png)
+
+Nhấn chọn **Nhận hàng**, hệ thống chuyển sang chức năng phiếu nhập kho. Người dùng có thể kiểm tra lại thông tin hàng hóa đã nhập lại vào kho
+
+![](images/fin_banhang_HDTH_PNK_tabchung.png)
+
+Tại chứng từ trả hàng, khi người dùng nhấn **Đưa về dự thảo**, hệ thống thực hiện đưa chứng từ trả hàng về trạng thái dự thảo, đồng thời sẽ xóa phiếu nhập kho tương ứng
+
+![](images/fin_banhang_HDTH_Nhap.png)
+
+#### Chuyển đổi thành khoản hoàn tiền/công nợ giảm
+
+Bước 1: Vào phân hệ **Bán hàng**, chọn **Hóa đơn**, chọn **Hóa đơn bán hàng**. Trên danh sách hóa đơn bán hàng, kế toán tìm tới hóa đơn có nhu cầu hoàn hàng, nhấn chọn tiện ích/chuyển đổi thành khoản hoàn tiền/công nợ giảm
+
+![](images/fin_BanHang_HoaDon_ButtonChuyenDoi.png)
+
+Hệ thống chuyển đổi từ hóa đơn bán hàng thành hóa đơn giảm giá/trả hàng, các thông tin được giữ nguyên
+
+## *Chứng từ giảm giá*
 
 ### Mô tả nghiệp vụ
 
 Khi phát sinh nghiệp vụ giảm giá hàng bán hoặc trả lại hàng đã bán, thông thường sẽ có các hoạt động sau:
 
-Nếu phát hiện hàng mua về không đúng quy cách, phẩm chất theo hợp đồng đã ký, khách hàng thoả thuận với doanh nghiệp trả lại hàng đã mua.
+Nếu phát hiện hàng mua về không đúng quy cách , phẩm chất theo hợp đồng đã ký, khách hàng thoả thuận với doanh nghiệp thực hiện làm hóa đơn giảm giá hàng đã mua.
 
 Cách 1: Người bán hàng lập hóa đơn giảm giá hàng bán để giao cho khách hàng và ghi sổ kế toán.Chi tiết nghiệp vụ **[tại đây](#tao-hoa-on-giam-gia)**
 
