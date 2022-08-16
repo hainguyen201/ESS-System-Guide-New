@@ -28,6 +28,18 @@ Hệ thống tự động tính Khấu hao ước tính theo Phương pháp đư
 
 Quản lý thông tin các Kiểu tài sản theo thực tế tại Doanh nghiệp
 
+### **Xem video hướng dẫn**
+
+<iframe
+    width="920"
+    height="450"
+    frameborder="0"
+    allow="autoplay; encrypted-media; clipboard-write; gyroscope; picture-in-picture "
+    allowfullscreen
+    title="Module Tài sản -  Kiểu tài sản" 
+    src="https://www.youtube.com/embed/96wURw8oCyc"
+></iframe>
+
 **Các bước thực hiện**
 
 **Bước 1:** Vào phân hệ **Kế toán Tài sản** -> Chọn chức năng **Danh mục** -> Chọn **Nhóm tài sản** 
@@ -70,6 +82,18 @@ Quản lý thông tin Tài sản trên hệ thống bao gồm: Giá trị tài s
 ·     Tạm dừng khấu hao Tài sản. Chi tiết nghiệp vụ **[tại đây](###Tạm dừng khấu hao Tài sản)**
 
 ·     Tiếp tục khấu hao Tài sản. Chi tiết nghiệp vụ **[tại đây](###Tiếp tục khấu hao Tài sản)**
+
+### **Xem video hướng dẫn**
+
+<iframe
+    width="920"
+    height="450"
+    frameborder="0"
+    allow="autoplay; encrypted-media; clipboard-write; gyroscope; picture-in-picture "
+    allowfullscreen
+    title="Module Tài sản - Tài sản" 
+    src="https://www.youtube.com/embed/xwLAt-1OIWA"
+></iframe>
 
 ### **Tăng tài sản cố định**
 
@@ -275,6 +299,19 @@ Trường hợp doanh nghiệp muốn tiếp tục Khấu hao tài sản đã đ
 
 ·     Quản lý các chứng từ điều chuyển. Chi tiết nghiệp vụ **[tại đây](###Quản lý các chứng từ điều chuyển)**
 
+### **Xem video hướng dẫn**
+
+<iframe
+    width="920"
+    height="450"
+    frameborder="0"
+    allow="autoplay; encrypted-media; clipboard-write; gyroscope; picture-in-picture "
+    allowfullscreen
+    title="Module Tài sản -  Điều chuyển tài sản" 
+    src="https://www.youtube.com/embed/QWFtrr4jJmk"
+></iframe>
+
+
 ### **Điều chuyển Tài sản giữa các phòng ban**
 
 **Đối tượng thực hiện :** Nhân viên kế toán
@@ -316,12 +353,22 @@ Trường hợp doanh nghiệp muốn tiếp tục Khấu hao tài sản đã đ
 
 ## **Thanh lý tài sản**
 
-### Thanh lý tài sản
-
 **Mô tả:**
 
 - Khi doanh nghiệp có nhu cầu bán tài sản do hết khấu hao hoặc không có nhu cầu sử dụng, kế toán thực hiện thanh lý tài sản. 
 - Căn cứ vào chứng từ liên quan kế toán ghi nhận vào sổ TSCĐ
+
+### Xem video hướng dẫn
+
+<iframe
+    width="920"
+    height="450"
+    frameborder="0"
+    allow="autoplay; encrypted-media; clipboard-write; gyroscope; picture-in-picture "
+    allowfullscreen
+    title="Module Tài sản - Thanh lý tài sản" 
+    src="https://www.youtube.com/embed/Ihkj3HFJYBs"
+></iframe>
 
 **Đối tượng thực hiện :** Nhân viên kế toán
 
@@ -378,7 +425,7 @@ Trường hợp doanh nghiệp muốn tiếp tục Khấu hao tài sản đã đ
 
 ## **Chuyển Tài sản thuê tài chính thành TSCĐ**
 
-**Mô tả nghiệp vụ**
+### **Mô tả nghiệp vụ**
 
 Khi phát sinh nghiệp vụ chuyển TSCĐ thuê tài chính thành TSCĐ chủ sở hữu, thông thường phát sinh các hoạt động sau đây:
 
@@ -392,6 +439,19 @@ Khi phát sinh nghiệp vụ chuyển TSCĐ thuê tài chính thành TSCĐ chủ
 ·     Chuyển Tài sản thuê tài chính thành TSCĐ. Chi tiết nghiệp vụ **[tại đây](###Chuyển Tài sản thuê tài chính thành TSCĐ)**
 
 ·     Quản lý các chứng từ Chuyển tài sản thuê tài chính. Chi tiết nghiệp vụ **[tại đây](###Quản lý các chứng từ Chuyển Tài sản thuê tài chính)**
+
+### Xem video hướng dẫn
+
+<iframe
+    width="920"
+    height="450"
+    frameborder="0"
+    allow="autoplay; encrypted-media; clipboard-write; gyroscope; picture-in-picture "
+    allowfullscreen
+    title="Module Tài sản -  Chuyển tài sản thuê tài chính" 
+    src="https://www.youtube.com/embed/tBeCxglwz_U"
+></iframe>
+
 
 ### **Chuyển Tài sản thuê tài chính thành TSCĐ**
 
@@ -459,6 +519,19 @@ Khi phát sinh nghiệp vụ chuyển TSCĐ thuê tài chính thành TSCĐ chủ
 - Kết thúc kiểm kê thu lại biên bản kiểm kê và tổng hợp kết quả. So sánh số liệu kiểm kê trên bảng tổng hợp kết quả kiểm kê với số liệu trên sổ sách kế toán
 - Dựa trên báo cáo kết quả kiểm kê, giám đốc phê duyệt các điều chỉnh do có sự khác biệt giữa số liệu sổ sách và kết quả kiểm kê.
 - Căn cứ vào quyết định xử lý, kế toán TSCĐ thực hiện ghi sổ TSCĐ.
+
+### Xem video hướng dẫn
+
+<iframe
+    width="920"
+    height="450"
+    frameborder="0"
+    allow="autoplay; encrypted-media; clipboard-write; gyroscope; picture-in-picture "
+    allowfullscreen
+    title="Module Tài sản -  Kiểm kê tài sản" 
+    src="https://www.youtube.com/embed/3C-9JnrXyNA"
+></iframe>
+
 
 ### Kiểm kê tài sản
 

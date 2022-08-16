@@ -26,6 +26,18 @@ Hệ thống tự động tính Khấu hao ước tính theo Phương pháp đư
 
 Quản lý thông tin các Loại Công cụ dụng cụ theo thực tế tại Doanh nghiệp...
 
+### Xem video hướng dẫn
+
+<iframe
+    width="920"
+    height="450"
+    frameborder="0"
+    allow="autoplay; encrypted-media; clipboard-write; gyroscope; picture-in-picture "
+    allowfullscreen
+    title="Module Tài sản -  Loại Công cụ dụng cụ" 
+    src="https://www.youtube.com/embed/slgm7MIZgnk"
+></iframe>
+
 **Các bước thực hiện**
 
 **Bước 1:** Vào phân hệ **Kế toán Công cụ dụng cụ** -> Chọn chức năng **Danh mục** -> Chọn **Loại Công cụ dụng cụ**
@@ -66,6 +78,19 @@ Quản lý thông tin CCDC trên hệ thống bao gồm: Giá trị CCDC và cá
 ·     Tạm dừng khấu hao Công cụ dụng cụ. Chi tiết nghiệp vụ **[tại đây](###Tạm dừng khấu hao Công cụ dụng cụ)**
 
 ·     Tiếp tục khấu hao Công cụ dụng cụ. Chi tiết nghiệp vụ **[tại đây](###Tiếp tục khấu hao Công cụ dụng cụ)**
+
+### Xem video hướng dẫn
+
+<iframe
+    width="920"
+    height="450"
+    frameborder="0"
+    allow="autoplay; encrypted-media; clipboard-write; gyroscope; picture-in-picture "
+    allowfullscreen
+    title="Module Tài sản -  Công cụ dụng cụ" 
+    src="https://www.youtube.com/embed/OPr-YStl5Tc"
+></iframe>
+
 
 ### **Tăng Công cụ dụng cụ**
 
@@ -284,6 +309,18 @@ Kết quả khấu hao sẽ được trả về tại tab **Bảng phân bổ ư
 
 ·     Quản lý các chứng từ điều chuyển. Chi tiết nghiệp vụ **[tại đây](###Quản lý các chứng từ điều chuyển)**
 
+### Xem video hướng dẫn
+
+<iframe
+    width="920"
+    height="450"
+    frameborder="0"
+    allow="autoplay; encrypted-media; clipboard-write; gyroscope; picture-in-picture "
+    allowfullscreen
+    title="Module Tài sản -  Điều chuyển Công cụ dụng cụ" 
+    src="https://www.youtube.com/embed/EyyeCEzg7ug"
+></iframe>
+
 ### **Điều chuyển Công cụ dụng cụ giữa các phòng ban**
 
 **Mô tả:**
@@ -342,6 +379,18 @@ Kết quả khấu hao sẽ được trả về tại tab **Bảng phân bổ ư
 ·     Thanh lý Công cụ dụng cụ. Chi tiết nghiệp vụ **[tại đây](#Tăng Công cụ dụng cụ)**
 
 ·     Quản lý các chứng từ Thanh lý. Chi tiết nghiệp vụ **[tại đây](#Tăng Công cụ dụng cụ)**
+
+### Xem video hướng dẫn
+
+<iframe
+    width="920"
+    height="450"
+    frameborder="0"
+    allow="autoplay; encrypted-media; clipboard-write; gyroscope; picture-in-picture "
+    allowfullscreen
+    title="Module Tài sản - Thanh lý Công cụ dụng cụ" 
+    src="https://www.youtube.com/embed/l0YFxZAUXIA"
+></iframe>
 
 ### **Thanh lý Công cụ dụng cụ**
 
@@ -411,6 +460,20 @@ Kết quả khấu hao sẽ được trả về tại tab **Bảng phân bổ ư
 - Kết thúc kiểm kê thu lại biên bản kiểm kê và tổng hợp kết quả. So sánh số liệu kiểm kê trên bảng tổng hợp kết quả kiểm kê với số liệu trên sổ sách kế toán
 - Dựa trên báo cáo kết quả kiểm kê, giám đốc phê duyệt các điều chỉnh do có sự khác biệt giữa số liệu sổ sách và kết quả kiểm kê.
 - Căn cứ vào quyết định xử lý, kế toán TSCĐ thực hiện ghi sổ TSCĐ.
+
+### Xem video hướng dẫn
+
+<iframe
+    width="920"
+    height="450"
+    frameborder="0"
+    allow="autoplay; encrypted-media; clipboard-write; gyroscope; picture-in-picture "
+    allowfullscreen
+    title="Module Tài sản -  Kiểm kê Công cụ dụng cụ" 
+    src="https://www.youtube.com/embed/loOkD6LSY50"
+></iframe>
+
+
 
 ### **Kiểm kê Công cụ dụng cụ**
 
