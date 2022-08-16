@@ -30,6 +30,7 @@ nav:
         - 'Hóa đơn': 'finance/fin-hoa-don-dien-tu.md'        
         - 'Tổng hợp': 'finance/fin-ke-toan-tong-hop.md'
         - 'Kho vận': 'finance/fin-kho.md'
+        - 'Thuế': 'finance/fin-thue.md'
         - 'Tài sản cố định': 'finance/fin-tscd.md'
         - 'Công cụ dụng cụ': 'finance/fin-ccdc.md'
         - 'Giá thành': 'finance/fin-giathanh.md'
