@@ -1,7 +1,5 @@
 # **Quy trình nghiệp vụ**
 
-*[Mô tả thông tin chung theo của toàn bộ Module Giá thành]*
-
 Module Giá thành hỗ trợ trong việc quản lý và tự động tập hợp chi phí sản xuất trực tiếp theo từng đối tượng tập hợp chi phí  (sản phẩm/dịch vụ, phân xưởng, đơn hàng, công trình, hợp đồng); Phân bổ chi phí chung, xác định chi phí dở dang cuối kỳ và lên giá thành chi tiết theo từng sản phẩm/dịch vụ, đơn hàng, công trình, hợp đồng.
 
 Phân hệ Giá thành hỗ trợ doanh nghiệp tính giá thành sản phẩm theo các phương pháp sau:
@@ -24,11 +22,9 @@ Phân hệ Giá thành hỗ trợ doanh nghiệp tính giá thành sản phẩm 
 
 **Các luồng quy trình**
 
-*[Liệt kê các luồng quy trình nghiệp vụ có trong Module, có link đến Phần Hướng dẫn chi tiết]*
+·    Tính giá thành theo TT133. Chi tiết nghiệp vụ [**tại đây**](#tinh-gia-thanh-theo-tt133 )
 
-·    Tính giá thành theo TT133. Chi tiết nghiệp vụ [**tại đây**](##Tính giá thành theo TT133 1 )
-
-·     Tính giá thành theo TT200. Chi tiết nghiệp vụ  [**tại đây**](##Tính giá thành theo TT200 1 )
+·     Tính giá thành theo TT200. Chi tiết nghiệp vụ  [**tại đây**](#tinh-gia-thanh-theo-tt200 )
 
 ### Khai báo định mức Phân bổ theo đối tượng THCP
 
@@ -478,9 +474,9 @@ Lưu ý:
 
 *[Liệt kê các luồng quy trình nghiệp vụ có trong Module, có link đến Phần Hướng dẫn chi tiết]*
 
-·    Tính giá thành theo TT133. Chi tiết nghiệp vụ [**tại đây**](##Tính giá thành theo TT133 2 )
+·    Tính giá thành theo TT133. Chi tiết nghiệp vụ [**tại đây**](#tinh-gia-thanh-theo-tt133_1 )
 
-·     Tính giá thành theo TT200. Chi tiết nghiệp vụ  [**tại đây**](##Tính giá thành theo TT200 2 )
+·     Tính giá thành theo TT200. Chi tiết nghiệp vụ  [**tại đây**](#tinh-gia-thanh-theo-tt200_1 )
 
 ### Khai báo định mức phân bổ chi phí
 
@@ -926,11 +922,9 @@ cầu đường… với nhiều hạng mục công trình con. Đối tượng 
 
 **Các luồng quy trình**
 
-*[Liệt kê các luồng quy trình nghiệp vụ có trong Module, có link đến Phần Hướng dẫn chi tiết]*
+·    Tính giá thành theo TT133. Chi tiết nghiệp vụ [**tại đây**](#tinh-gia-thanh-theo-tt133_2 )
 
-·    Tính giá thành theo TT133. Chi tiết nghiệp vụ [**tại đây**](##Tính giá thành theo TT133 3 )
-
-·     Tính giá thành theo TT200. Chi tiết nghiệp vụ  [**tại đây**](##Tính giá thành theo TT200 3 )
+·     Tính giá thành theo TT200. Chi tiết nghiệp vụ  [**tại đây**](#tinh-gia-thanh-theo-tt200_2 )
 
 ### Thiết lập định mức nguyên vật liệu công trình
 
@@ -1329,9 +1323,9 @@ Tính giá thành công trình  đối với các doanh nghiệp áp dụng ch�
 
 **Các luồng quy trình**
 
-·    Tính giá thành theo TT133. Chi tiết nghiệp vụ[ **tại đây**](##Tính giá thành theo TT133 4)
+·    Tính giá thành theo TT133. Chi tiết nghiệp vụ[ **tại đây**](#tinh-gia-thanh-theo-tt133_3)
 
-·     Tính giá thành theo TT200. Chi tiết nghiệp vụ [ **tại đây**](##Tính giá thành theo TT200 4)
+·     Tính giá thành theo TT200. Chi tiết nghiệp vụ [ **tại đây**](#tinh-gia-thanh-theo-tt200_3)
 
 ### Thiết lập chi phí dở dang đầu kỳ
 
@@ -1598,9 +1592,9 @@ Bước 5.3: Bấm **Xác nhận** để thực hiện nghiệm thu với bút t
 
 **Các luồng quy trình**
 
-·    Tính giá thành theo TT133. Chi tiết nghiệp vụ [**tại đây**](##Tính giá thành theo TT133 5)
+·    Tính giá thành theo TT133. Chi tiết nghiệp vụ [**tại đây**](#tinh-gia-thanh-theo-tt133_4)
 
-·     Tính giá thành theo TT200. Chi tiết nghiệp vụ [**tại đây**](##Tính giá thành theo TT200 5)
+·     Tính giá thành theo TT200. Chi tiết nghiệp vụ [**tại đây**](#tinh-gia-thanh-theo-tt200_4)
 
 ### Thiết lập chi phí dở dang đầu kỳ
 

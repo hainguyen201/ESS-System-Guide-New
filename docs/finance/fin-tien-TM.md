@@ -414,3 +414,98 @@ Nếu hóa đơn chưa được chi đủ thì cập nhật **Tình trạng than
 - Căn cứ vào thực tế kiểm kê thừa hay thiếu, hệ thống tự động sinh ra Phiếu thu/Phiếu chi tương ứng. Cụ thể:
   - Trường hợp Số kiểm kê thực tế < Số dư trên sổ kế toán, hệ thống sẽ tự động sinh ra **Phiếu chi** để xử lý giá trị thừa.
   - Trường hợp Số kiểm kê thực tế > Số dư trên sổ kế toán, hệ thống sẽ tự động sinh ra **Phiếu thu** để xử lý giá trị thiếu.
+
+## *Thanh toán lương cho nhân viên*
+
+### Mô tả nghiệp vụ
+
+**Nghiệp vụ**
+
+Hàng tháng, sau khi Doanh nghiệp chốt thông tin lương sẽ thực hiện thanh toán tiền lương cho Nhân viên theo Bảng lương đã chốt.
+
+Việc thanh toán được thực hiện thanh toán theo **Tiền mặt** hoặc **Tiền gửi**
+
+### Xem video hướng dẫn
+
+<iframe
+    width="920"
+    height="450"
+    frameborder="0"
+    allow="autoplay; encrypted-media; clipboard-write; gyroscope; picture-in-picture "
+    allowfullscreen
+    title="Module Ngân quỹ - Thanh toán lương cho nhân viên" 
+    src="https://www.youtube.com/embed/ztlQnKkVOgg?list=PLcdARb5pnnj8jeyvyhaptnwL3sxxT_QaK"
+></iframe>
+
+
+### **Hướng dẫn trên phần mềm**
+
+Đối tượng thực hiện: Người dùng phần mềm
+
+**Bước 1**: Vào phân hệ **Ngân quỹ**, 
+
+- Chọn **Tiền mặt**, chọn **Thanh toán lương cho nhân viên**: Nếu muốn chi trả lương bằng **Tiền mặt**
+
+  ![](images/fin_nganquy_tienmat_Ttluong.png)
+
+- Chọn **Tiền gửi**, chọn **Thanh toán lương cho nhân viên**: Nếu muốn chi trả lương bằng **Tiền gửi ngân hàng** 
+
+  ![](images/fin_nganquy_tiengui_Ttluong.png)
+
+**Bước 2**: Hệ thống hiển thị thông tin màn hình chức năng:
+
+![](images/fin_nganquy_tiengui_tao.png)
+
+Các trường dữ liệu trên chức năng:
+
+- Bảng lương: Thỏa mãn là Bảng lương đã được Xác nhận hoàn thành. Trường hợp Bảng lương không có thông tin, Người dùng vào chức năng **Tổng hợp/Bảng lương/Bảng lương** để khai báo
+- Thông tin Sổ nhật ký: Xác định Sổ nhật ký dùng để chi trả và lên các bút toán chi tiền lương cho nhân viên.
+
+**Bước 3**: Thực hiện chọn và Nhập thông tin dữ liệu
+
+- Chọn Bảng lương:
+
+**Trường hợp:** Bảng lương được khai báo Không hạch toán theo đối tượng (Tức thông tin **Hạch toán theo đối tượng** ***<u>không được tích chọn</u>***): Trên giao diện chỉ hiển thị thông tin Tổng tiền để người dùng nhập và Thanh toán theo tổng, không lên bút toán theo từng đối tượng
+
+![](images/fin_nganquy_tiengui_tao_khaibao-16596125206821.png)
+
+**Trường hợp**:  Bảng lương được khai báo Hạch toán theo đối tượng (Tức thông tin **Hạch toán theo đối tượng** ***<u>được tích chọn</u>***): Trên giao diện hiển thị mặc định thông tin Nhân viên cùng Số tiền lương nhận được đã được khai báo bên Bảng lương
+
+![](images/fin_nganquy_tiengui_tao_khaibao_TheoDoituon-16596125206842.png)
+
+- Thông tin **Tổng số tiền phải trả**: Là thông tin Số tiền của Bảng lương còn phải trả. Nếu là lần chi trả ban đầu thông tin 'Tổng tiền phải trả' chính là thông tin Tiền của Bảng lương. Với lần trả tiếp theo: Số tiền phải trả là giá trị còn lại của Bảng lương sau khi đã thanh toán lương lần đầu
+- Thông tin **Tổng tiền trả lần này**: Ghi nhận Số tiền sẽ thanh toán cho lần chi trả lương đang thực hiện
+  - Với Bảng lương thanh toán không theo đối tượng thì Tổng tiền trả lần này = Số tiền được nhập thanh toán tại trường **'Số tiền'**
+  - Với Bảng lương thanh toán theo Đối tượng thì Tổng tiền trả lần này = **Tổng giá trị tại cột 'Số tiền thanh toán'** của nhân viên (Thông tin cột **'Số tiền thanh toán'** ứng với từng nhân viên có thể **Sửa đổi**)
+
+![](images/fin_nganquy_tiengui_tao_nhapthongtin_tong-16596125206843.png)
+
+![](images/fin_nganquy_tiengui_tao_nhapthongtin-16596125206844.png)
+
+<u>***Lưu ý:***</u> Hệ thống sẽ báo lỗi khi 'Tổng tiền trả lần này' vượt quá 'Tổng tiền phải trả' và Báo lỗi khi Số tiền còn lại trong Sổ nhật ký không đủ để thanh toán khoản tiền phải chi trả
+
+**Bước 4**: Người dùng Nhấn nút **Xác nhận** để ghi nhận thanh toán lương theo dữ liệu đã nhập.
+
+**Trường hợp: Thanh toán theo Số tổng**
+
+![](images/fin_nganquy_tiengui_tao_nhapthongtin_XacNhan-16596125206855.png)
+
+==> Sau khi Xác nhận thanh toán Hệ thống tạo 1 Phiếu chi lương tương ứng theo hình thức chi trả lương bằng **Tiền mặt hay Tiền gửi ngân hàng**
+
+![](images/fin_nganquy_tiengui_tao_nhapthongtin_tong_xacnhan-16596125206856.png)
+
+**Trường hợp thanh toán theo Đối tượng**
+
+![](images/fin_nganquy_tiengui_tao_nhapthongtin_doituong_xacnhan-16596125206857.png)
+
+==> Hệ thống tự động tạo ra các phiếu chi lương với các bút toán tương ứng với từng đối tượng
+
+![](images/fin_nganquy_tiengui_tao_danhsachbuttoan-16596125206858.png)
+
+Thông tin chi tiết của Phiếu chi thanh toán lương
+
+![](images/fin_nganquy_tiengui_tao_danhsachbuttoan_chiTiet-16596125206859.png)
+
+***Lưu ý:*** Với các Bảng lương đã được thanh toán Chi trả, hệ thống thể hiện thông tin Số lượng Phiếu chi tương ứng đã được thanh toán của Bảng lương
+
+![](images/fin_nganquy_tiengui_bangluong-165961252068510.png)

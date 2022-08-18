@@ -173,7 +173,17 @@ Báo cáo tài chính:
 
 **Xem video hướng dẫn tại đây**
 
-*Các bước thực hiện*
+<iframe
+    width="920"
+    height="450"
+    frameborder="0"
+    allow="autoplay; encrypted-media; clipboard-write; gyroscope; picture-in-picture "
+    allowfullscreen
+    title="Báo cáo" 
+    src="https://www.youtube.com/embed/2g9EPV_ZOv0?list=PLcdARb5pnnj8jeyvyhaptnwL3sxxT_QaK"
+></iframe>
+
+**Các bước thực hiện**
 
 **Bước 1:** Vào phân hệ **Báo cáo**
 
@@ -221,7 +231,7 @@ Bảng kê số dư tiền mặt theo ngày là mẫu sổ được lập ra đ�
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]* 
+*Xem video hướng dẫn cách xem báo cáo chung*
 
 #### Hướng dẫn trên phần mềm
 
@@ -263,7 +273,7 @@ Sổ nhật ký thu tiền là mẫu sổ được lập ra để ghi chép các
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -307,7 +317,7 @@ Sổ nhật ký chi tiền là mẫu sổ được lập ra để ghi chép các
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -351,7 +361,7 @@ Sổ quỹ tiền mặt là mẫu sổ được lập ra dùng cho thủ quỹ (
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -395,7 +405,7 @@ Sổ kế toán chi tiết quỹ tiền mặt là mẫu sổ được lập ra d
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -441,7 +451,7 @@ Bảng kê số dư tiền gửi theo ngày là mẫu sổ được lập ra đ�
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -485,7 +495,7 @@ Sổ nhật ký thu tiền là mẫu sổ được lập ra để ghi chép các
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -529,7 +539,7 @@ Sổ nhật ký chi tiền là mẫu sổ được lập ra để ghi chép các
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -573,7 +583,7 @@ Sổ quỹ tiền gửi ngân hàng là mẫu sổ được lập ra dùng cho k
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -617,7 +627,7 @@ Bảng kê số dư ngân hàng là mẫu sổ được lập ra dùng cho kế 
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -663,7 +673,7 @@ Sổ tài sản cố định là mẫu sổ được lập ra dùng để đăng
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -707,7 +717,7 @@ Thẻ tài sản cố định là mẫu sổ được lập ra dùng để theo 
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -729,8 +739,6 @@ Hoặc chọn biểu tượng ![](images/Tra_BaCham.png) rồi chọn **Báo cá
 
 Sau khi chọn tham số, hệ thống tự động xuất ra báo cáo theo thông số đã chọn
 
-
-
 **Bước 4**: Trên cửa sổ báo cáo, người dùng có thể thực hiện thêm một số chức năng khác:
 
 **Tải lại**: Xuất lại báo cáo theo tham số đang có
@@ -751,7 +759,7 @@ Sổ theo dõi công cụ dụng cụ là mẫu sổ được lập ra dùng đ�
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -795,7 +803,7 @@ Sổ theo dõi công cụ dụng cụ theo đơn vị sử dụng là mẫu sổ
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -839,7 +847,7 @@ Bảng tính phân bổ công cụ dụng cụ là mẫu sổ được lập ra 
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -883,7 +891,7 @@ Báo cáo chi tiết giảm công cụ dụng cụ là mẫu báo cáo được 
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -904,8 +912,6 @@ Hoặc chọn biểu tượng ![](images/Tra_BaCham.png) rồi chọn **Báo cá
 **Bước 3**: Nhập thông tin tham số đầu vào tại góc phải để xem báo cáo: Thời gian xuất báo cáo, đơn vị, ....
 
 Sau khi chọn tham số, hệ thống tự động xuất ra báo cáo theo thông số đã chọn
-
-
 
 **Bước 4**: Trên cửa sổ báo cáo, người dùng có thể thực hiện thêm một số chức năng khác:
 
@@ -929,7 +935,7 @@ Tổng hợp tồn kho là mẫu báo cáo lập ra để theo dõi tổng hợp
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -973,7 +979,7 @@ Tổng hợp tồn kho theo nhóm VTHH là mẫu báo cáo lập ra để theo d
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -1017,7 +1023,7 @@ Tổng hợp nhập xuất tồn trên nhiều kho là mẫu báo cáo được 
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -1061,7 +1067,7 @@ Tổng hợp xuất kho theo lệnh sản xuất là báo cáo để theo dõi �
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -1105,7 +1111,7 @@ Sổ chuyển kho nội bộ là mẫu báo cáo để theo dõi tình hình chu
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -1149,7 +1155,7 @@ Báo cáo tiến độ sản xuất là báo cáo để phản ánh tiến độ
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -1193,7 +1199,7 @@ Báo cáo đối chiếu nhập xuất kho giữa các chi nhánh là báo cáo 
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -1237,7 +1243,7 @@ Báo cáo đối chiếu kho và sổ cái là báo cáo giúp đối chiếu t�
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -1285,7 +1291,7 @@ Tổng hợp công nợ phải trả nhà cung cấp là mẫu sổ được l�
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -1329,7 +1335,7 @@ Sổ chi tiết thanh toán với người bán là mẫu sổ được lập ra
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -1373,7 +1379,7 @@ Sổ chi tiết thanh toán với người bán bằng ngoại tệ là mẫu s�
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -1417,7 +1423,7 @@ Chi tiết công nợ phải trả theo hóa đơn là mẫu sổ được lập
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -1465,7 +1471,7 @@ Sổ nhật ký mua hàng là mẫu sổ được lập ra dùng để  ghi ché
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -1509,7 +1515,7 @@ Tổng hợp mua hàng theo mặt hàng là mẫu sổ được lập ra giúp n
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -1553,7 +1559,7 @@ Sổ chi tiết mua hàng là mẫu sổ được lập ra giúp người quản
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -1601,7 +1607,7 @@ Tổng hợp công nợ phải thu khách hàng là mẫu sổ được lập ra
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -1645,7 +1651,7 @@ Sổ chi tiết thanh toán với người mua là mẫu sổ được lập ra 
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -1689,7 +1695,7 @@ Sổ chi tiết thanh toán với người mua bằng ngoại tệ là mẫu s�
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -1735,7 +1741,7 @@ Sổ nhật ký bán hàng là mẫu sổ được lập ra để ghi chép các
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -1779,7 +1785,7 @@ Tổng hợp bán hàng theo mặt hàng là mẫu sổ được lập ra giúp 
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -1823,7 +1829,7 @@ Sổ chi tiết bán hàng là mẫu sổ được lập ra giúp người quả
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -1869,7 +1875,7 @@ Chi tiết công nợ phải thu theo hợp đồng bán là mẫu báo cáo đ�
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -1915,7 +1921,7 @@ Tổng hợp công nợ phải thu theo công trình là mẫu báo cáo đượ
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -1959,7 +1965,7 @@ Chi tiết công nợ phải thu theo công trình là mẫu báo cáo được 
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -2007,7 +2013,7 @@ Bảng kê hóa đơn, chứng từ hàng hóa, dịch vụ mua vào là mẫu s
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -2051,7 +2057,7 @@ Bảng kê hóa đơn, chứng từ hàng hóa, dịch vụ mua vào (Mẫu qu�
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -2095,7 +2101,7 @@ Bảng kê hóa đơn, chứng từ hàng hóa, dịch vụ bán ra là mẫu s�
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -2139,7 +2145,7 @@ Bảng kê hóa đơn, chứng từ hàng hóa, dịch vụ bán ra (Mẫu quả
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -2187,7 +2193,7 @@ Báo cáo sổ chi phí sản xuất kinh doanh là mẫu sổ dùng để theo 
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -2231,7 +2237,7 @@ Báo cáo tổng hợp chi phí sản xuất kinh doanh theo đối tượng t�
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -2275,7 +2281,7 @@ Báo cáo sổ chi tiết tài khoản theo đối tượng tập hợp chi phí
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -2319,7 +2325,7 @@ Báo cáo Sổ chi tiết tài khoản theo đối tượng tập hợp chi phí
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -2363,7 +2369,7 @@ Báo cáo bảng tính giá thành là mẫu báo cáo được lập ra để t
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -2409,7 +2415,7 @@ Báo cáo Tổng hợp nhập xuất kho theo đối tượng tập hợp chi ph
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -2453,7 +2459,7 @@ Bảng kê phiếu nhập, phiếu xuất kho theo đối tượng tập hợp c
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -2497,7 +2503,7 @@ Báo cáo thẻ tính giá thành đối tượng tập hợp chi phí - theo kh
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -2543,7 +2549,7 @@ Báo cáo Sổ chi phí sản xuất , kinh doanh theo công trình là mẫu s�
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -2587,7 +2593,7 @@ Báo cáo tổng hợp chi phí sản xuất kinh doanh theo công trình là m�
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -2631,7 +2637,7 @@ Báo cáo Bảng tổng hợp chi phí theo công trình là mẫu bảng đư�
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -2675,7 +2681,7 @@ Báo cáo Sổ chi tiết tài khoản theo công trình là mẫu sổ được
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -2721,7 +2727,7 @@ Báo cáo Sổ chi tiết tài khoản theo công trình và khoản mục chi p
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -2767,7 +2773,7 @@ Báo cáo Tổng hợp nhập xuất kho theo công trình là mẫu báo cáo �
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -2811,7 +2817,7 @@ Báo cáo Bảng kê thu nhập , phiếu xuất theo công trình là mẫu bá
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -2855,7 +2861,7 @@ Báo cáo Tổng hợp công nợ nhân viên theo công trình là mẫu báo c
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -2899,7 +2905,7 @@ Báo cáo Chi tiết công nợ nhân viên theo công trình là mẫu báo cá
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -2943,7 +2949,7 @@ Báo cáo tổng hợp lãi lỗ theo công trình là mẫu báo cáo được 
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -2987,7 +2993,7 @@ Báo cáo tổng hợp lãi lỗ theo công trình là mẫu báo cáo được 
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -3033,7 +3039,7 @@ Tổng hợp chi phí sản xuất kinh doanh theo đơn hàng là mẫu báo c�
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -3077,7 +3083,7 @@ Báo cáo Bảng tổng hợp chi phí theo đơn hàng là mẫu báo cáo đư
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -3121,7 +3127,7 @@ Báo cáo Sổ chi tiết tài khoản theo đơn hàng và khoản mục chi ph
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -3165,7 +3171,7 @@ Tổng hợp nhập xuất kho theo đơn hàng là mẫu báo cáo được l�
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -3209,7 +3215,7 @@ Báo cáo bảng kê phiếu nhập xuất theo đơn hàng là mẫu báo cáo 
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -3255,7 +3261,7 @@ Báo cáo Sổ chi phí sản xuất, kinh doanh theo hợp đồng là mẫu s�
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -3299,7 +3305,7 @@ Báo cáo Tổng hợp chi phí sản xuất kinh doanh theo hợp đồng là m
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -3343,7 +3349,7 @@ Báo cáo Bảng tổng hợp chi phí theo hợp đồng là mẫu báo cáo đ
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -3387,7 +3393,7 @@ Báo cáo Sổ chi tiết tài khoản theo hợp đồng là mẫu báo cáo đ
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -3431,7 +3437,7 @@ Báo cáo Tổng hợp nhập xuất kho theo hợp đồng là mẫu báo cáo 
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -3475,7 +3481,7 @@ Báo cáo bảng kê phiếu nhập xuất theo hợp đồng là mẫu báo cá
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -3523,7 +3529,7 @@ Bảng cân đối số phát sinh là mẫu sổ được lập ra để phản
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -3567,7 +3573,7 @@ Sổ nhật ký chung là mẫu sổ được lập ra để ghi chép các nghi
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -3611,7 +3617,7 @@ Sổ chi tiết theo tài khoản là mẫu sổ được lập ra dùng cho m�
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -3655,7 +3661,7 @@ Sổ chi tiết theo tài khoản là mẫu sổ được lập ra dùng cho m�
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -3699,7 +3705,7 @@ Sổ cái tài khoản là mẫu sổ được lập ra dùng để ghi chép c�
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -3743,7 +3749,7 @@ Sổ cái là một cuốn sổ hoặc tập hợp các tài khoản trong đó 
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -3787,7 +3793,7 @@ Sổ chi tiết thanh toán với người mua bằng ngoại tệ là mẫu s�
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -3831,7 +3837,7 @@ Bảng Tổng hợp phát sinh theo tài khoản là mẫu sổ được lập r
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -3875,7 +3881,7 @@ Sổ chi tiết tài khoản theo đối tượng là sổ kế toán tổng h�
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -3919,7 +3925,7 @@ Tổng hợp chi phí theo khoản mục chi phí là mẫu sổ được lập 
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -3963,7 +3969,7 @@ Chi tiết phát sinh tài khoản theo khoản mục phí là mẫu sổ đư�
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -4007,7 +4013,7 @@ Tổng hợp chi phí theo đơn vị là mẫu sổ được lập ra giúp cho
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -4051,7 +4057,7 @@ Tổng hợp chi phí theo đơn vị và khoản mục phí là mẫu sổ đư
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -4095,7 +4101,7 @@ Chi tiết phát sinh Tài khoản theo đơn vị và khoản mục phí là m�
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -4139,7 +4145,7 @@ Tình hình phân bổ chi phí trả trước là mẫu sổ được lập ra 
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -4183,7 +4189,7 @@ Báo cáo Bảng tính phân bổ chi phí trả trước là mẫu báo cáo đ
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -4227,7 +4233,7 @@ Tổng hợp công nợ nhân viên là mẫu sổ được lập ra giúp theo 
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -4271,7 +4277,7 @@ Tổng hợp công nợ nhân viên theo hợp đồng là mẫu sổ được l
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -4315,7 +4321,7 @@ Chi tiết công nợ nhân viên theo hợp đồng là mẫu sổ được l�
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -4361,7 +4367,7 @@ Bảng cân đối tài khoản theo nhiều chi nhánh là mẫu báo cáo đư
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -4405,7 +4411,7 @@ Báo cáo phân tích chi tiết doanh thu theo nhiều kỳ là mẫu báo cáo
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -4449,7 +4455,7 @@ Báo cáo phân tích chi tiết chi phí theo nhiều kỳ là mẫu báo cáo 
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo chung]*
+*Xem video hướng dẫn cách xem báo cáo chung*. Chi tiết cụ thể **[tại đây](#huong-dan-xem-bao-cao-chung)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -4495,6 +4501,16 @@ Bảng cân đối kế toán là thông tin tài chính tổng hợp , phản �
 
 **Xem video hướng dẫn**
 
+<iframe
+    width="920"
+    height="450"
+    frameborder="0"
+    allow="autoplay; encrypted-media; clipboard-write; gyroscope; picture-in-picture "
+    allowfullscreen
+    title="Báo cáo tài chính" 
+    src="https://www.youtube.com/embed/cvLv5dc_hpw?list=PLcdARb5pnnj9pfGcrvZ16mj-aXdfnNQJe"
+></iframe>
+
 *[Xem video hướng dẫn cách xem báo cáo tài chính chung]*
 
 #### Hướng dẫn trên phần mềm
@@ -4539,7 +4555,7 @@ Báo cáo kết quả hoạt động kinh doanh phản ánh tình hình và kế
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo tài chính chung]*
+Xem video hướng dẫn cách xem báo cáo tài chính chung **[tại đây](#bao-cao-tai-chinh)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -4583,7 +4599,7 @@ Báo cáo lưu chuyển tiền tệ là báo cáo trình bày các dòng tiền 
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo tài chính chung]*
+Xem video hướng dẫn cách xem báo cáo tài chính chung **[tại đây](#bao-cao-tai-chinh)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -4627,7 +4643,7 @@ Báo cáo lưu chuyển tiền tệ là báo cáo trình bày các dòng tiền 
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo tài chính chung]*
+Xem video hướng dẫn cách xem báo cáo tài chính chung **[tại đây](#bao-cao-tai-chinh)**
 
 #### Hướng dẫn trên phần mềm
 
@@ -4671,7 +4687,7 @@ Thuyết minh báo cáo tài chính là một bộ phận hợp thành không th
 
 **Xem video hướng dẫn**
 
-*[Xem video hướng dẫn cách xem báo cáo tài chính chung]*
+Xem video hướng dẫn cách xem báo cáo tài chính chung **[tại đây](#bao-cao-tai-chinh)**
 
 #### Hướng dẫn trên phần mềm
 

@@ -12,7 +12,7 @@ Giúp thiết lập các thông tin như thông tin đại lý thuế để in l
 
 ·     Thuế tài nguyên. Chi tiết nghiệp vụ **[tại đây](#thue-tai-nguyen)**
 
-·     Thuế tiêu thụ đặc biệt. Chi tiết nghiệp vụ **[tại đây](#thue-tieu-thu-dac-biet)**
+·     Thuế tiêu thụ đặc biệt. Chi tiết nghiệp vụ **[tại đây](#thue-tieu-thu-ac-biet)**
 
 ·     Thuế giá trị gia tăng. Chi tiết nghiệp vụ **[tại đây](#thue-gia-tri-gia-tang)**
 

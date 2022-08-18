@@ -10,17 +10,17 @@ Hệ thống tự động tính Khấu hao ước tính theo Phương pháp đư
 
 **Các luồng quy trình**
 
-· Quản lý thông tin các Kiểu tài sản **[tại đây](##Kiểu tài sản)**
+· Quản lý thông tin các Kiểu tài sản **[tại đây](#kieu-tai-san)**
 
-· Khấu hao Tài sản, Điều chỉnh tăng/giảm, Tạm dừng và Tiếp tục Khấu hao Tài sản theo PP Đường thẳng và PP Giảm dần  **[tại đây](##Tài sản)**
+· Khấu hao Tài sản, Điều chỉnh tăng/giảm, Tạm dừng và Tiếp tục Khấu hao Tài sản theo PP Đường thẳng và PP Giảm dần  **[tại đây](#tai-san)**
 
-·  Điều chuyển tài sản **[tại đây](##Điều chuyển Tài sản giữa các phòng ban)**
+·  Điều chuyển tài sản **[tại đây](#ieu-chuyen-tai-san)**
 
-·  Thanh lý tài sản **[tại đây](##Thanh lý tài sản)**
+·  Thanh lý tài sản **[tại đây](#thanh-ly-tai-san)**
 
-·  Chuyển tài sản thuê tài chính **[tại đây](##Chuyển Tài sản thuê tài chính thành TSCĐ)**
+·  Chuyển tài sản thuê tài chính **[tại đây](#chuyen-tai-san-thue-tai-chinh-thanh-tsc)**
 
-·  Kiểm kê tài sản **[tại đây](##Kiểm kê Tài sản)**
+·  Kiểm kê tài sản **[tại đây](#kiem-ke-tai-san)**
 
 ## **Kiểu tài sản**
 
@@ -42,7 +42,7 @@ Quản lý thông tin các Kiểu tài sản theo thực tế tại Doanh nghi�
 
 **Các bước thực hiện**
 
-**Bước 1:** Vào phân hệ **Kế toán Tài sản** -> Chọn chức năng **Danh mục** -> Chọn **Nhóm tài sản** 
+**Bước 1:** Vào phân hệ **Tài sản** -> Chọn thư mục **Tài sản cố định** -> Chọn **Kiểu tài sản** 
 
 ![](images\fin_Taisan_Kieutaisan.png)
 
@@ -295,9 +295,9 @@ Trường hợp doanh nghiệp muốn tiếp tục Khấu hao tài sản đã đ
 
 **Luồng chức năng:**
 
-·     Điều chuyển tài sản giữa các phòng ban. Chi tiết nghiệp vụ **[tại đây](###Điều chuyển Tài sản giữa các phòng ban)**
+·     Điều chuyển tài sản giữa các phòng ban. Chi tiết nghiệp vụ **[tại đây](#ieu-chuyen-tai-san-giua-cac-phong-ban)**
 
-·     Quản lý các chứng từ điều chuyển. Chi tiết nghiệp vụ **[tại đây](###Quản lý các chứng từ điều chuyển)**
+·     Quản lý các chứng từ điều chuyển. Chi tiết nghiệp vụ **[tại đây](#quan-ly-cac-chung-tu-ieu-chuyen)**
 
 ### **Xem video hướng dẫn**
 

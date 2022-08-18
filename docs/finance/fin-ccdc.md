@@ -10,15 +10,15 @@ Hệ thống tự động tính Khấu hao ước tính theo Phương pháp đư
 
 **Các luồng quy trình**
 
-·     Quản lý thông tin Loại CCDC. Chi tiết nghiệp vụ **[tại đây](##Loại Công cụ dụng cụ)**
+·     Quản lý thông tin Loại CCDC. Chi tiết nghiệp vụ **[tại đây](#loai-cong-cu-dung-cu)**
 
-·     Phân bổ CCDC, Điều chỉnh tăng/giảm, Tạm dừng phân bổ và Tiếp tục phân bổ CCDC. Chi tiết nghiệp vụ **[tại đây](##Công cụ dụng cụ)**
+·     Phân bổ CCDC, Điều chỉnh tăng/giảm, Tạm dừng phân bổ và Tiếp tục phân bổ CCDC. Chi tiết nghiệp vụ **[tại đây](#cong-cu-dung-cu)**
 
-·     Điều chuyển CCDC. Chi tiết nghiệp vụ **[tại đây](##Điều chuyển Công cụ dụng cụ giữa các phòng ban)**
+·     Điều chuyển CCDC. Chi tiết nghiệp vụ **[tại đây](#ieu-chuyen-cong-cu-dung-cu-giua-cac-phong-ban)**
 
-·     Thanh lý CCDC. Chi tiết nghiệp vụ **[tại đây](##Thanh lý Công cụ dụng cụ)**
+·     Thanh lý CCDC. Chi tiết nghiệp vụ **[tại đây](#thanh-ly-cong-cu-dung-cu)**
 
-·     Kiểm kê CCDC. Chi tiết nghiệp vụ **[tại đây](##Kiểm kê Công cụ dụng cụ)**
+·     Kiểm kê CCDC. Chi tiết nghiệp vụ **[tại đây](#kiem-ke-cong-cu-dung-cu)**
 
 ## **Loại Công cụ dụng cụ**
 
@@ -67,17 +67,17 @@ Quản lý thông tin CCDC trên hệ thống bao gồm: Giá trị CCDC và cá
 
 **Luồng chức năng chính**
 
-·     Tăng Công cụ dụng cụ. Chi tiết nghiệp vụ **[tại đây](#Tăng Công cụ dụng cụ)**
+·     Tăng Công cụ dụng cụ. Chi tiết nghiệp vụ **[tại đây](#tang-cong-cu-dung-cu)**
 
-·     Quản lý thông tin Khấu hao. Chi tiết nghiệp vụ **[tại đây](###Quản lý thông tin Khấu hao)**
+·     Quản lý thông tin Khấu hao. Chi tiết nghiệp vụ **[tại đây](#quan-ly-thong-tin-khau-hao)**
 
-·     Điều chỉnh Tăng Giá trị/Thời gian khấu hao của Công cụ dụng cụ. Chi tiết nghiệp vụ **[tại đây](###Điều chỉnh Tăng giá trị/thời gian khấu hao của Công cụ dụng cụ)**
+·     Điều chỉnh Tăng Giá trị/Thời gian khấu hao của Công cụ dụng cụ. Chi tiết nghiệp vụ **[tại đây](#ieu-chinh-tang-gia-trithoi-gian-khau-hao-cua-cong-cu-dung-cu)**
 
-·     Điều chỉnh Giảm Giá trị/Thời gian khấu hao của Công cụ dụng cụ. Chi tiết nghiệp vụ **[tại đây](###Điều chỉnh Giảm giá trị/thời gian khấu hao của Công cụ dụng cụ)**
+·     Điều chỉnh Giảm Giá trị/Thời gian khấu hao của Công cụ dụng cụ. Chi tiết nghiệp vụ **[tại đây](#ieu-chinh-giam-gia-trithoi-gian-khau-hao-cua-cong-cu-dung-cu)**
 
-·     Tạm dừng khấu hao Công cụ dụng cụ. Chi tiết nghiệp vụ **[tại đây](###Tạm dừng khấu hao Công cụ dụng cụ)**
+·     Tạm dừng khấu hao Công cụ dụng cụ. Chi tiết nghiệp vụ **[tại đây](#tam-dung-khau-hao-cong-cu-dung-cu)**
 
-·     Tiếp tục khấu hao Công cụ dụng cụ. Chi tiết nghiệp vụ **[tại đây](###Tiếp tục khấu hao Công cụ dụng cụ)**
+·     Tiếp tục khấu hao Công cụ dụng cụ. Chi tiết nghiệp vụ **[tại đây](#tiep-tuc-khau-hao-cong-cu-dung-cu)**
 
 ### Xem video hướng dẫn
 
@@ -376,9 +376,9 @@ Kết quả khấu hao sẽ được trả về tại tab **Bảng phân bổ ư
 
 **Luồng chức năng chính**
 
-·     Thanh lý Công cụ dụng cụ. Chi tiết nghiệp vụ **[tại đây](#Tăng Công cụ dụng cụ)**
+·     Thanh lý Công cụ dụng cụ. Chi tiết nghiệp vụ **[tại đây](#thanh-ly-cong-cu-dung-cu_1)**
 
-·     Quản lý các chứng từ Thanh lý. Chi tiết nghiệp vụ **[tại đây](#Tăng Công cụ dụng cụ)**
+·     Quản lý các chứng từ Thanh lý. Chi tiết nghiệp vụ **[tại đây](#quan-ly-cac-chung-tu-thanh-ly)**
 
 ### Xem video hướng dẫn
 

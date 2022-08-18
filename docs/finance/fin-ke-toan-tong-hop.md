@@ -19,11 +19,13 @@ Quy trình kế toán tổng hợp bao gồm:
 
 ·     Chi tiết bút toán. Chi tiết nghiệp vụ **[tại đây](#chi-tiet-but-toan)**
 
-·     Khai báo số dư ban đầu. Chi tiết nghiệp vụ **[tại đây](#khai-bao-so-du-ban-dau)**
+·     Khai báo số dư ban đầu. Chi tiết nghiệp vụ **[tại đây](#khai-bao-so-du-ban-au)**
 
 ·     Nhập tồn kho vật tư, hàng hóa. Chi tiết nghiệp vụ **[tại đây](#nhap-ton-kho-vat-tu-hang-hoa)**
 
 ·     Phân bổ chi phí trả trước. Chi tiết nghiệp vụ **[tại đây](#phan-bo-chi-phi-tra-truoc)**
+
+·     Phân bổ doanh thu chưa thực hiện. Chi tiết nghiệp vụ **[tại đây](#phan-bo-doanh-thu-chua-thuc-hien)**
 
 ·     Tính tỷ giá xuất quỹ. Chi tiết nghiệp vụ **[tại đây](#tinh-ty-gia-xuat-quy)**
 
@@ -35,7 +37,7 @@ Quy trình kế toán tổng hợp bao gồm:
 
 ·     Chứng từ ghi sổ. Chi tiết nghiệp vụ **[tại đây](#chung-tu-ghi-so)**
 
-·     Khóa sổ kỳ kế toán. Chi tiết nghiệp vụ **[tại đây](#kho-so-ky-ke-toan)**
+·     Khóa sổ kỳ kế toán. Chi tiết nghiệp vụ **[tại đây](#khoa-so-ky-ke-toan)**
 
 ## *Chứng từ nghiệp vụ khác*
 
@@ -1618,11 +1620,11 @@ Chức năng **Phân bổ chi phí trả trước** được sử dụng trong c
 
 **Các luồng quy trình:**
 
-+ Phân bổ Chi Phí trả trước. Chi tiết xem **[Tại đây](### Phân bổ Chi phí trả trước)**
-+ Điều chỉnh Tăng giá trị/thời gian. Chi tiết xem**[Tại đây](###Điều chỉnh Tăng giá trị/ thời gian phân bổ)**
-+ Điều chỉnh Giảm giá trị/thời gian. Chi tiết xem **[Tại đây](### Điều chỉnh Giảm giá trị/thời gian phân bổ)**
++ Phân bổ Chi Phí trả trước. Chi tiết xem **[Tại đây](#them-moi-ban-ghi-phan-bo-chi-phi-tra-truoc)**
++ Điều chỉnh Tăng giá trị/thời gian. Chi tiết xem**[Tại đây](#ieu-chinh-tang-gia-tri-thoi-gian-phan-bo)**
++ Điều chỉnh Giảm giá trị/thời gian. Chi tiết xem **[Tại đây](#ieu-chinh-giam-gia-trithoi-gian-phan-bo)**
 
-### Thêm mới bản ghi Phân bổ chi phí trả trước
+#### Thêm mới bản ghi Phân bổ chi phí trả trước
 
 **Mô tả:**
 
@@ -1661,7 +1663,7 @@ Doanh nghiệp thực hiện phân bổ chi phí trả trước cho từng phòn
 
 **Bước 3:** Nhấn nút Tính phân bổ để tính phân bổ chi phí trả trước -> Giá trị phân bổ theo từng kỳ sẽ được ghi nhận tại tab *Phân bổ ước tính*
 
-### **Quản lý thông tin phân bổ**
+#### **Quản lý thông tin phân bổ**
 
 *Giá trị phân bổ chi phí trả trước sẽ được tính theo Phương pháp đường thẳng*.  Kết quả phụ thuộc vào các yếu tố dưới đây:
 
@@ -1683,7 +1685,7 @@ Doanh nghiệp thực hiện phân bổ chi phí trả trước cho từng phòn
       - Số tiền đã phân bổ tính dựa trên bút toán đã hạch toán và số tiền đã phân bổ ngoài phần mềm
     - Giá trị sổ sách = Nguyên giá - Số tiền đã phân bổ
 
-### Điều chỉnh Tăng giá trị/ thời gian phân bổ
+#### Điều chỉnh Tăng giá trị/ thời gian phân bổ
 
 **Mô tả:**
 
@@ -1721,7 +1723,7 @@ Khi doanh nghiệp có nhu cầu Tăng giá trị/ thời gian phân bổ, hệ 
     - Ghi nợ Tài khoản chi phí trả trước
     - Ghi có Tài khoản đối ứng
 
-### Điều chỉnh Giảm giá trị/thời gian phân bổ
+#### Điều chỉnh Giảm giá trị/thời gian phân bổ
 
 **Mô tả:**
 
@@ -1759,7 +1761,7 @@ Khi doanh nghiệp có nhu cầu Giảm giá trị/ thời gian phân bổ chi p
     - Ghi nợ Tài khoản đối ứng chi phí
     - Ghi có Tài khoản chi phí trả trước
 
-## Phân bổ doanh thu chưa thực hiện
+## *Phân bổ doanh thu chưa thực hiện*
 
 **Mục đích:**
 
@@ -1771,9 +1773,9 @@ Cho phép kế toán phân bổ doanh thu nhận trước nhưng chưa tính và
 
 **Các luồng quy trình:**
 
-+ Phân bổ Doanh thu chưa thực hiện. Chi tiết xem **[Tại đây](###Phân bổ Doanh thu chưa thực hiện)**
-+ Điều chỉnh Tăng giá trị/thời gian. Chi tiết xem **[Tại đây](### Điều chỉnh Tăng giá trị/ thời gian phân bổ)**
-+ Điều chỉnh Giảm giá trị/thời gian. Chi tiết xem **[Tại đây](### Điều chỉnh Giảm giá trị/thời gian phân bổ)**
++ Phân bổ Doanh thu chưa thực hiện. Chi tiết xem **[Tại đây](#them-moi-ban-ghi-phan-bo-doanh-thu-chua-thuc-hien)**
++ Điều chỉnh Tăng giá trị/thời gian. Chi tiết xem **[Tại đây](#ieu-chinh-tang-gia-tri-thoi-gian-phan-bo_1)**
++ Điều chỉnh Giảm giá trị/thời gian. Chi tiết xem **[Tại đây](#ieu-chinh-giam-gia-trithoi-gian-phan-bo_1)**
 
 ### Xem video hướng dẫn
 
@@ -1788,7 +1790,7 @@ Cho phép kế toán phân bổ doanh thu nhận trước nhưng chưa tính và
   ></iframe>
 
 
-### Thêm mới bản ghi Phân bổ Doanh thu chưa thực hiện
+#### Thêm mới bản ghi Phân bổ Doanh thu chưa thực hiện
 
 **Mô tả:** Doanh nghiệp thực hiện phân bổ doanh thu được trả trước cho từng phòng ban, đối tượng theo từng kỳ
 
@@ -1827,7 +1829,7 @@ Cho phép kế toán phân bổ doanh thu nhận trước nhưng chưa tính và
 
 **Bước 3:** Nhấn nút Tính phân bổ để tính phân bổ doanh thu chưa thực hiện -> Giá trị phân bổ theo từng kỳ sẽ được ghi nhận tại tab *Phân bổ ước tính*
 
-### Quản lý thông tin phân bổ
+#### Quản lý thông tin phân bổ
 
 *Giá trị phân bổ doanh thu chưa thực hiện sẽ được tính theo Phương pháp đường thẳng*.  Kết quả phụ thuộc vào các yếu tố dưới đây:
 
@@ -1849,7 +1851,7 @@ Cho phép kế toán phân bổ doanh thu nhận trước nhưng chưa tính và
       - Số tiền đã phân bổ tính dựa trên bút toán đã hạch toán và số tiền đã phân bổ ngoài phần mềm
     - Giá trị sổ sách = Nguyên giá - Số tiền đã phân bổ
 
-### Điều chỉnh Tăng giá trị/ thời gian phân bổ
+#### Điều chỉnh Tăng giá trị/ thời gian phân bổ
 
 **Mô tả:**
 
@@ -1887,7 +1889,7 @@ Khi doanh nghiệp có nhu cầu Tăng giá trị/ thời gian phân bổ doanh 
     - Ghi nợ Tài khoản đối ứng
     - Ghi có Tài khoản tăng tổng doanh thu
 
-### Điều chỉnh Giảm giá trị/thời gian phân bổ
+#### Điều chỉnh Giảm giá trị/thời gian phân bổ
 
 **Mô tả:**
 
@@ -1928,7 +1930,7 @@ Khi doanh nghiệp có nhu cầu Giảm giá trị/ thời gian phân bổ doanh
     - Ghi nợ Tài khoản doanh thu chưa thực hiện
     - Ghi có Tài khoản Doanh thu
 
-### Quản lý mẫu
+#### Quản lý mẫu
 
 Đối với phân bổ chi phí trả trước và doanh thu chưa thực hiện, Hệ thống hỗ trợ tính năng Quản lý mẫu để giúp người dùng chọn nhanh mẫu phân bổ cho từng bản ghi, rút ngắn các thao tác nhập thông tin tại mục Thời gian phân bổ, Thông tin kế toán
 
@@ -2238,7 +2240,14 @@ Nghiệp vụ **Kết chuyển cuối kỳ** được thực hiện trên phần
 - Khai báo các cặp tài khoản kết chuyển cuối kỳ
 - Thực hiện kết chuyển lãi/lỗ kinh doanh cuối kỳ
 
-### **Xem video hướng dẫn**
+
+### Hướng dẫn trên phần mềm
+
+#### Cấu hình kết chuyển cuối kỳ
+
+Đối tượng thực hiện: Kế toán tổng hợp
+
+**Xem video hướng dẫn**:
 
 <iframe
     width="920"
@@ -2246,15 +2255,9 @@ Nghiệp vụ **Kết chuyển cuối kỳ** được thực hiện trên phần
     frameborder="0"
     allow="autoplay; encrypted-media; clipboard-write; gyroscope; picture-in-picture "
     allowfullscreen
-    title="Module Tổng hợp - Kết chuyển cuối kỳ" 
-    src="https://www.youtube.com/embed/G1Is6zW8WfY"
+    title="Module Tổng hợp - Thiếp lập kết chuyển cuối kỳ" 
+    src="https://www.youtube.com/embed/3hKeB_gEOqA?list=PLcdARb5pnnj9pfGcrvZ16mj-aXdfnNQJe"
 ></iframe>
-
-### Hướng dẫn trên phần mềm
-
-#### Cấu hình kết chuyển cuối kỳ
-
-Đối tượng thực hiện: Kế toán tổng hợp
 
 **Bước 1**: Vào phân hệ **Tổng hợp**, Chọn nhóm **Cấu hình** , chọn chức năng **Thiết lập kết chuyển** (Hoặc thực hiện **Tìm kiếm** trực tiếp chức năng trên ô tìm kiếm chung của hệ thống)
 
@@ -2281,7 +2284,19 @@ Danh sách cấu hình kết chuyển được hiển thị
 
 #### Kết chuyển cuối kỳ
 
-Đối tượng thực hiện: Kế toán tổng hợp
+**Đối tượng thực hiện**: Kế toán tổng hợp
+
+**Xem video hướng dẫn**:
+
+<iframe
+    width="920"
+    height="450"
+    frameborder="0"
+    allow="autoplay; encrypted-media; clipboard-write; gyroscope; picture-in-picture "
+    allowfullscreen
+    title="Module Tổng hợp - Kết chuyển cuối kỳ" 
+    src="https://www.youtube.com/embed/G1Is6zW8WfY"
+></iframe>
 
 **Kết chuyển theo từng bút toán kết chuyển**
 
