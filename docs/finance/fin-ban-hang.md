@@ -435,8 +435,9 @@ Nếu như đủ hàng còn tồn trong kho, hệ thống sẽ xác nhận thàn
     allow="autoplay; encrypted-media; clipboard-write; gyroscope; picture-in-picture "
     allowfullscreen
     title="Lập hóa đơn bán hàng không từ đơn bán hàng" 
-    src="https://www.youtube.com/embed/Sa1cBRDhPsc"
+    src="https://www.youtube.com/embed/-6xgVLYA9Ys?list=PLcdARb5pnnj9pfGcrvZ16mj-aXdfnNQJe"
 ></iframe>
+
 **Bước 1**: Vào phân hệ **Bán hàng**, Chọn **Hóa đơn** , chọn **Hóa đơn bán hàng** 
 
 ![](images/fin_banhang_hoadon.png)

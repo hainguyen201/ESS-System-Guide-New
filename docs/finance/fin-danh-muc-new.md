@@ -906,11 +906,11 @@ Chức năng Danh mục **Hệ thống tài khoản** được quản lý tập 
 
 Thông tin **Hệ thống tài khoản** được hiển thị để người dùng khai báo
 
-![](images/fin_DM_HeThongTK_2.png)
+![](images/fin_DM_HeThongTK_DS.png)
 
 **Bước 2:** Để khai báo thêm Nhóm người dùng, người dùng nhấn nút **Tạo** trên màn hình **Hệ thống tài khoản** và thực hiện Khai báo các thông tin: 
 
-![](images/fin_DM_HeThongTK_Tao.png)
+![](images/fin_DM_HeThongTK_Tao1.png)
 
 - Sau khai báo về Mã và Tên tài khoản; người dùng thực hiện Thiết lập thông tin cho tài khoản đã khai
 - Việc thiết lập sẽ liên quan đến toàn bộ luồng dữ liệu hạch toán về sau của 1 tài khoản

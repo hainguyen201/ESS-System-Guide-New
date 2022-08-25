@@ -56,8 +56,9 @@ Chức năng cho phép người dùng hạch toán bút toán thủ công đối
     allow="autoplay; encrypted-media; clipboard-write; gyroscope; picture-in-picture "
     allowfullscreen
     title="Chứng từ nghiệp vụ khác" 
-    src="https://www.youtube.com/embed/gtdLHJmtKiA?list=PLcdARb5pnnj8jeyvyhaptnwL3sxxT_QaK"
+    src="https://www.youtube.com/embed/gtdLHJmtKiA?list=PLcdARb5pnnj9pfGcrvZ16mj-aXdfnNQJe"
 ></iframe>
+
 ### **Hướng dẫn trên phần mềm**
 
 Đối tượng thực hiện: Người dùng phần mềm
@@ -1930,13 +1931,13 @@ Khi doanh nghiệp có nhu cầu Giảm giá trị/ thời gian phân bổ doanh
     - Ghi nợ Tài khoản doanh thu chưa thực hiện
     - Ghi có Tài khoản Doanh thu
 
-#### Quản lý mẫu
+## *Mẫu phân bổ chi phí trả trước*
 
 Đối với phân bổ chi phí trả trước và doanh thu chưa thực hiện, Hệ thống hỗ trợ tính năng Quản lý mẫu để giúp người dùng chọn nhanh mẫu phân bổ cho từng bản ghi, rút ngắn các thao tác nhập thông tin tại mục Thời gian phân bổ, Thông tin kế toán
 
 **Các bước thực hiện:**
 
-**Bước 1:** Chọn module **Tổng hợp** -> Chọn trên tab menu **Thiết lập** -> Chọn **Mẫu phân bổ chi phí trả trước/ Mẫu phân bổ doanh thu chưa thực hiện** -> Chọn **Tạo**
+**Bước 1:** Chọn module **Tổng hợp** -> Chọn trên tab menu **Thiết lập** -> Chọn Mẫu phân bổ chi phí trả trước> Chọn **Tạo**
 
 ![](images/Fin_TH_mauphanbo.png)
 
@@ -1944,7 +1945,23 @@ Khi doanh nghiệp có nhu cầu Giảm giá trị/ thời gian phân bổ doanh
 
 ![](images/Fin_TH_mauphanbo1.png)
 
-**Bước 3:** Nhấn nút **Lưu** để ghi nhận thông tin vừa nhập. Người dùng có thể sử dụng mẫu tại màn hình Tạo mới bản ghi phân bổ bằng cách nhấn vào *Mẫu phân bổ* để chọn mẫu phân bổ mong muốn
+**Bước 3:** Nhấn nút **Lưu** để ghi nhận thông tin vừa nhập.
+
+## *Mẫu phân bổ doanh thu chưa thực hiện*
+
+Mẫu phân bổ doanh thu chưa thực hiện giúp người dùng chọn nhanh mẫu phân bổ cho từng bản ghi, rút ngắn các thao tác nhập thông tin tại mục Thời gian phân bổ, Thông tin kế toán
+
+**Các bước thực hiện:**
+
+**Bước 1:** Chọn module **Tổng hợp** ->**Cấu hình**-> Chọn **Mẫu phân bổ doanh thu chưa thực hiện** -> Chọn **Tạo**
+
+![](images/fin_TongHop_MauPBDT2.png)
+
+**Bước 2:** Nhập Diễn giải, thông tin về thời gian phân bổ, các đầu tài khoản ghi nhận bút toán
+
+![](images/fin_TongHop_MauPBDT1.png)
+
+**Bước 3:** Nhấn nút **Lưu** để ghi nhận thông tin vừa nhập.
 
 ## *Tính tỷ giá xuất quỹ*
 
